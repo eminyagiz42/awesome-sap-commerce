@@ -7,7 +7,7 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
 
 ## Contents
 
-- [ SAP Commerce Resources](#sap-commerce-resources)
+- [SAP Commerce Resources](#sap-commerce-resources)
   - [Official Sites](#official-sites)
   - [Java Doc](#java-doc)
   - [Certification](#certification)
