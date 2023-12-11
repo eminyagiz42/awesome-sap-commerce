@@ -1,6 +1,6 @@
 # Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) [resources](#resources). SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. You will find below the useful resources for SAP Commerce Developers
+> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) [resources](#sap-commerce-resources). SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. You will find below the useful resources for SAP Commerce Developers
 
 Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) lists.
 
@@ -28,9 +28,9 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
 - [Contributing](#contributing)
 
 
-# Resources
+## SAP Commerce Resources
 
-## Official Sites
+### Official Sites
 
 _These websites are the official sites of SAP Commerce Platform._
 
@@ -43,16 +43,16 @@ _These websites are the official sites of SAP Commerce Platform._
 
 _These two websites will migrate to [Learning SAP](https://learning.sap.com/) on July 2024._
 
-- [SAP Micro Learning](https://microlearning.opensap.com/channel/Expert%2BSAP%2BCommerce%2BCloud/178317971) (Login Required)
-- [Open SAP Courses](https://open.sap.com/) (It's free)
+- [SAP Micro Learning](https://microlearning.opensap.com/channel/Expert%2BSAP%2BCommerce%2BCloud/178317971) - Login required.
+- [Open SAP Courses](https://open.sap.com/) - It has several free courses about SAP Commerce.
 
-## Java Doc
+### Java Doc
 
 _This is the official Hybris java documentation._
 
 - [SAP Hybris Java Doc](https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205/en-US/index.html)
 
-## Certification
+### Certification
 
 _These are official SAP Developer certificates. It's necessary to stay up-to-date, and useful for an employer to earn silver, gold SAP Partner._
 
@@ -61,7 +61,7 @@ _These are official SAP Developer certificates. It's necessary to stay up-to-dat
  
 _For more info about valid [SAP Certifications](https://training.sap.com/certification/validity)._
   
-## Blogs
+### Blogs
 
 _Sites to read._
 
@@ -93,20 +93,20 @@ _Sites to read._
 - [groundlevelhybris](https://groundlevelhybris.wordpress.com/category/hybris/)
 - [hybrisguy](https://hybrisguy.wordpress.com/)
 
-## SAP Blog Posts
+### SAP Blog Posts
 
 _You may find technical articles about SAP Commerce._
 
 - [SAP Commerce Tag](https://blogs.sap.com/tags/67837800100800007216/?orderby=likes)
 
-## Stack Overflow
+### Stack Overflow
 
 _Many Questions about SAP Commerce answered on Stack Overflow._
 
 - [Tagged Questions](https://stackoverflow.com/questions/tagged/sap-commerce-cloud)
 - [Top Users](https://stackoverflow.com/tags/sap-commerce-cloud/topusers)
 
-## Medium Articles
+### Medium Articles
 
 _Many Experienced people who are eager to share their knowledge about SAP Commerce via Medium Articles._
 
@@ -124,9 +124,9 @@ _Many Experienced people who are eager to share their knowledge about SAP Commer
 - [Acacio Capela Articles](https://medium.com/@acacio.capela)
 - [Amine Annabi Articles](https://medium.com/@annabi.medamine)
 
-## LinkedIn Posts/Articles
+### LinkedIn Blogs
 
-_You may find some useful posts on LinkedIn._
+_You may find some useful posts on LinkedIn Posts/Articles._
 
 - [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
 - [Krishna Batham Documents](https://www.linkedin.com/in/krishnabatham/recent-activity/documents/)
@@ -135,7 +135,7 @@ _You may find some useful posts on LinkedIn._
 - [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
 - [Abhinavpat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
 
-## Videos
+### Videos
 
 _Useful YouTube Channels._
 
@@ -163,7 +163,7 @@ _Useful YouTube Channels._
 - [Webinar: SAP Commerce And Spartacus](https://www.youtube.com/watch?v=HLpewBG7dxg)
 - [SAP Commerce Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4)
 
-## Tools
+### Tools
 
 _Tools that makes SAP Commerce Developer life easier._
 
@@ -171,7 +171,7 @@ _Tools that makes SAP Commerce Developer life easier._
 - [JRebel](https://www.jrebel.com/blog/sap-hybris) - It reduces build time.
 - [Hybris Integration Developer Workbench](https://www.youtube.com/watch?v=LNbv50SmpJo) - It's for Eclipse IDE.
 
-## GitHub
+### GitHub
 
 _These are interesting GitHub Repositories about SAP Commerce/Hybris._
 
@@ -188,51 +188,49 @@ _Search By Tags on GitHub._
 - [SAP Commerce](https://github.com/topics/sap-commerce)
 - [SAP Commerce Cloud](https://github.com/topics/sap-commerce-cloud)
 
-## Udemy Courses
+### Udemy Courses
 
 _These courses are useful, but it does not contain the latest version, So, We recommend you Micro Learning videos or YouTube channels._
 
 - [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
-- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) This course released on 2018.
+- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
 
-## Related Technologies
+### Related Technologies
 
-### Apache Solr
+#### Apache Solr
 
 _This is the default search engine._
 
 - [Apache Solr](https://solr.apache.org/)
 
-### Apache Ant
+#### Apache Ant
 
 _This is the default code build tool._
 
 - [Apache Ant](https://ant.apache.org/)
 
-### Spartacus
+#### Spartacus
 
 _This is a new headless Angular storefront that replaced JSP Storefront in the latest versions. Recently, it re-branded as SAP Composable Storefront._
 
 - [Angular 101 Medium](https://medium.com/javarevisited/angular-101-a-technical-understanding-onwhere-it-fits-in-application-development-766622d9baff)
 
-### Groovy
+#### Groovy
 
 - [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
 
-## Turkish Articles & Videos
+### Turkish Articles & Videos
 
 _Some resources that prepared in Turkish._
 
 - [Erkin Erol Blog](https://www.erkinerol.com/hybris-solr-ince-ayarlari/)
 - [Haratres Teknoloji Hybris 101](https://www.youtube.com/@haratresteknoloji/playlists)
 - [yazilimcity Blog](http://www.yazilimcity.net/adding-menu-to-sap-commerce-backoffice/)
-- [Ugur Halil Blog ](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/)
+- [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/)
 - [Mdpgroup Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/)
 
-## Contributing
+### Contributing
 
 Contributions are very welcome!
 
 Please have a look at the [CONTRIBUTING](https://github.com/eminyagiz42/awesome-hybris/blob/main/CONTRIBUTING.md) guidelines and [the validation tools](https://github.com/sindresorhus/awesome-lint).
-
-[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
