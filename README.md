@@ -1,12 +1,9 @@
 # Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) [resources](#resources).
+> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) [resources](#resources). SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. You will find below the useful resources for SAP Commerce Developers
 
 Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) lists.
 
-## SAP Commerce
-
-_SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. You will find below the useful resources for SAP Commerce Developers._
 
 ## Contents
 
@@ -14,7 +11,7 @@ _SAP Commerce is an e-commerce platform using Java, based on Spring MVC framewor
 - [Java Doc](#java-doc)
 - [Certification](#certification)
 - [Blogs](#blogs)
-- [Sap Blog Posts](#sap-blog-posts)
+- [SAP Blog Posts](#sap-blog-posts)
 - [Stack Overflow](#stack-overflow)
 - [Medium Articles](#medium-articles)
 - [LinkedIn Blogs](#linkedin-postsarticles)
@@ -23,6 +20,8 @@ _SAP Commerce is an e-commerce platform using Java, based on Spring MVC framewor
 - [GitHub Repositories](#github)
 - [Udemy Courses](#udemy-courses)
 - [Related Technologies](#related-technologies)
+  - [Apache Ant](#apache-ant)
+  - [Apache Solr](#apache-solr)
   - [Spartacus](#spartacus)
   - [Groovy](#groovy)
 - [Turkish Resources](#turkish-articles--videos)
@@ -31,7 +30,7 @@ _SAP Commerce is an e-commerce platform using Java, based on Spring MVC framewor
 
 # Resources
 
-## Official Sites 
+## Official Sites
 
 _These websites are the official sites of SAP Commerce Platform._
 
@@ -71,7 +70,7 @@ _Sites to read._
 - [ozkancinar hybris](https://https://ozkancinar.net/category/hybris/)
 - [javainsimpleway](http://javainsimpleway.com/)
 - [stackextend hybris](https://www.stackextend.com/category/hybris/)
-- [clutcher github blog](https://clutcher.github.io/tags/hybris/)
+- [clutcher GitHub blog](https://clutcher.github.io/tags/hybris/)
 - [hybrisarchitect](https://hybrisarchitect.com/)
 - [expertshybris](https://www.expertshybris.com/)
 - [helphybris](https://www.helphybris.com/)
@@ -168,9 +167,9 @@ _Useful YouTube Channels._
 
 _Tools that makes SAP Commerce Developer life easier._
 
-- [Developers Toolset](https://plugins.jetbrains.com/plugin/12867-sap-commerce-developers-toolset) - SAP Commerce Intellij plugin
-- [JRebel](https://www.jrebel.com/blog/sap-hybris) - It reduces build time
-- [Hybris Integration Developer Workbench](https://www.youtube.com/watch?v=LNbv50SmpJo) - It's for Eclipse IDE
+- [Developers Toolset](https://plugins.jetbrains.com/plugin/12867-sap-commerce-developers-toolset) - SAP Commerce Intellij plugin.
+- [JRebel](https://www.jrebel.com/blog/sap-hybris) - It reduces build time.
+- [Hybris Integration Developer Workbench](https://www.youtube.com/watch?v=LNbv50SmpJo) - It's for Eclipse IDE.
 
 ## GitHub
 
@@ -193,8 +192,8 @@ _Search By Tags on GitHub._
 
 _These courses are useful, but it does not contain the latest version, So, We recommend you Micro Learning videos or YouTube channels._
 
-- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - Free
-- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) (2018)
+- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
+- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) This course released on 2018.
 
 ## Related Technologies
 
