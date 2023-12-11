@@ -1,6 +1,6 @@
 # Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) [resources](#sap-commerce-resources). SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. You will find below the useful resources for SAP Commerce Developers
+> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. You will find below the useful resources for SAP Commerce Developers
 
 Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) lists.
 
@@ -18,14 +18,14 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
   - [LinkedIn Blogs](#linkedin-blogs)
   - [Videos](#videos)
   - [Tools](#tools)
-  - [GitHub Repositories](#github)
+  - [GitHub](#github)
   - [Udemy Courses](#udemy-courses)
   - [Related Technologies](#related-technologies)
     - [Apache Ant](#apache-ant)
     - [Apache Solr](#apache-solr)
     - [Spartacus](#spartacus)
     - [Groovy](#groovy)
-- [Turkish Resources](#turkish-articles--videos)
+- [Turkish Resources](#turkish-resources)
 - [Contributing](#contributing)
 
 
@@ -220,9 +220,9 @@ _This is a new headless Angular storefront that replaced JSP Storefront in the l
 
 - [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
 
-## Turkish Articles & Videos
+## Turkish Resources
 
-_Some resources that prepared in Turkish._
+_Some Articles & Videos that prepared in Turkish._
 
 - [Erkin Erol Blog](https://www.erkinerol.com/hybris-solr-ince-ayarlari/)
 - [Haratres Teknoloji Hybris 101](https://www.youtube.com/@haratresteknoloji/playlists)
