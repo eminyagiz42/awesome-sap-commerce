@@ -7,23 +7,24 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
 
 ## Contents
 
-- [Official Sites](#official-sites)
-- [Java Doc](#java-doc)
-- [Certification](#certification)
-- [Blogs](#blogs)
-- [SAP Blog Posts](#sap-blog-posts)
-- [Stack Overflow](#stack-overflow)
-- [Medium Articles](#medium-articles)
-- [LinkedIn Blogs](#linkedin-postsarticles)
-- [Videos](#videos)
-- [Tools](#tools)
-- [GitHub Repositories](#github)
-- [Udemy Courses](#udemy-courses)
-- [Related Technologies](#related-technologies)
-  - [Apache Ant](#apache-ant)
-  - [Apache Solr](#apache-solr)
-  - [Spartacus](#spartacus)
-  - [Groovy](#groovy)
+- [ SAP Commerce Resources](#sap-commerce-resources)
+  - [Official Sites](#official-sites)
+  - [Java Doc](#java-doc)
+  - [Certification](#certification)
+  - [Blogs](#blogs)
+  - [SAP Blog Posts](#sap-blog-posts)
+  - [Stack Overflow](#stack-overflow)
+  - [Medium Articles](#medium-articles)
+  - [LinkedIn Blogs](#linkedin-blogs)
+  - [Videos](#videos)
+  - [Tools](#tools)
+  - [GitHub Repositories](#github)
+  - [Udemy Courses](#udemy-courses)
+  - [Related Technologies](#related-technologies)
+    - [Apache Ant](#apache-ant)
+    - [Apache Solr](#apache-solr)
+    - [Spartacus](#spartacus)
+    - [Groovy](#groovy)
 - [Turkish Resources](#turkish-articles--videos)
 - [Contributing](#contributing)
 
@@ -219,7 +220,7 @@ _This is a new headless Angular storefront that replaced JSP Storefront in the l
 
 - [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
 
-### Turkish Articles & Videos
+## Turkish Articles & Videos
 
 _Some resources that prepared in Turkish._
 
@@ -229,7 +230,7 @@ _Some resources that prepared in Turkish._
 - [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/)
 - [Mdpgroup Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/)
 
-### Contributing
+## Contributing
 
 Contributions are very welcome!
 
