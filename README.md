@@ -203,17 +203,17 @@ _Apache Ant is the default code build and source management tool._
 
 - [Apache Ant](https://ant.apache.org/)
 
-### Solr
-
-_Apache Solr is the default search engine._
-
-- [Apache Solr](https://solr.apache.org/)
-
 ### Groovy
 
 _Apache Groovy is a functional programming language, that can be possible to run scripts._
 
 - [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
+
+### Solr
+
+_Apache Solr is the default search engine._
+
+- [Apache Solr](https://solr.apache.org/)
 
 ### Spartacus
 
