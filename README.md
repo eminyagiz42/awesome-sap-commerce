@@ -20,13 +20,12 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
   - [Tools](#tools)
   - [GitHub](#github)
   - [Udemy Courses](#udemy-courses)
-  - [Related Technologies](#related-technologies)
-    - [Apache Ant](#apache-ant)
-    - [Apache Solr](#apache-solr)
-    - [Spartacus](#spartacus)
-    - [Groovy](#groovy)
+- [Related Technologies](#related-technologies)
+  - [Apache Ant](#apache-ant)
+  - [Apache Solr](#apache-solr)
+  - [Spartacus](#spartacus)
+  - [Groovy](#groovy)
 - [Turkish Resources](#turkish-resources)
-- [Contributing](#contributing)
 
 
 ## SAP Commerce Resources
@@ -196,27 +195,27 @@ _These courses are useful, but it does not contain the latest version, So, We re
 - [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
 - [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
 
-### Related Technologies
+## Related Technologies
 
-#### Apache Solr
+### Apache Solr
 
 _This is the default search engine._
 
 - [Apache Solr](https://solr.apache.org/)
 
-#### Apache Ant
+### Apache Ant
 
 _This is the default code build tool._
 
 - [Apache Ant](https://ant.apache.org/)
 
-#### Spartacus
+### Spartacus
 
 _This is a new headless Angular storefront that replaced JSP Storefront in the latest versions. Recently, it re-branded as SAP Composable Storefront._
 
 - [Angular 101 Medium](https://medium.com/javarevisited/angular-101-a-technical-understanding-onwhere-it-fits-in-application-development-766622d9baff)
 
-#### Groovy
+### Groovy
 
 - [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
 
