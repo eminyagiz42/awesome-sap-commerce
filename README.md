@@ -21,10 +21,10 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
   - [GitHub](#github)
   - [Udemy Courses](#udemy-courses)
 - [Related Technologies](#related-technologies)
-  - [Apache Ant](#apache-ant)
-  - [Apache Solr](#apache-solr)
-  - [Spartacus](#spartacus)
+  - [Ant](#ant)
   - [Groovy](#groovy)
+  - [Solr](#solr)
+  - [Spartacus](#spartacus)
 - [Turkish Resources](#turkish-resources)
 
 
@@ -197,17 +197,23 @@ _These courses are useful, but it does not contain the latest version, So, We re
 
 ## Related Technologies
 
-### Apache Solr
+### Ant
 
-_This is the default search engine._
+_Apache Ant is the default code build and source management tool._
+
+- [Apache Ant](https://ant.apache.org/)
+
+### Solr
+
+_Apache Solr is the default search engine._
 
 - [Apache Solr](https://solr.apache.org/)
 
-### Apache Ant
+### Groovy
 
-_This is the default code build tool._
+_Apache Groovy is a functional programming language, that can be possible to run scripts._
 
-- [Apache Ant](https://ant.apache.org/)
+- [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
 
 ### Spartacus
 
@@ -215,9 +221,6 @@ _This is a new headless Angular storefront that replaced JSP Storefront in the l
 
 - [Angular 101 Medium](https://medium.com/javarevisited/angular-101-a-technical-understanding-onwhere-it-fits-in-application-development-766622d9baff)
 
-### Groovy
-
-- [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
 
 ## Turkish Resources
 
