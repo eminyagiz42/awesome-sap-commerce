@@ -2,7 +2,6 @@ name: Test Awesome Hybris
 on:
   pull_request:
     branches: [ main ]
-
       jobs:
         Awesome_Lint:
           runs-on: ubuntu-latest

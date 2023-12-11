@@ -181,7 +181,7 @@ _These are interesting GitHub Repositories about SAP Commerce/Hybris._
 - [flexiblesearchbuilder](https://github.com/avrilfanomar/flexiblesearchbuilder)
 - [y-scripts](https://github.com/sergaks/y-scripts)
 
-_Search By Tags on GitHub._
+_Search by Tags on GitHub._
 
 - [Hybris](https://github.com/topics/hybris)
 - [SAP Hybris](https://github.com/topics/sap-hybris)
@@ -190,7 +190,7 @@ _Search By Tags on GitHub._
 
 ### Udemy Courses
 
-_These courses are useful, but it does not contain the latest version, So, We recommend you Micro Learning videos or YouTube channels._
+_These courses are useful, but it does not cover the latest version, So, We recommend you Micro Learning videos or YouTube channels._
 
 - [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
 - [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
