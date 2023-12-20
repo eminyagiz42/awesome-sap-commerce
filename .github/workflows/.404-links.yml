@@ -1,5 +1,0 @@
-ignore:
-  urls:
-    - https://www.sap.com/products/crm/commerce-cloud.html
-    - 'https://open.sap.com/*'
-    - "https://www.linkedin.com/in/*"

@@ -1,0 +1,6 @@
+delay:
+  'https://github.com': 500 #Avoiding Github rate limit by delaying the request -> 500ms
+ignore:
+  urls: # Array of url to ignore
+    - https://www.sap.com/products/crm/commerce-cloud.html
+    -  https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html
