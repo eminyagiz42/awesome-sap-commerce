@@ -1,4 +1,4 @@
-name: Dead link checker
+name: Test Dead Link
 
 on:
   push:
