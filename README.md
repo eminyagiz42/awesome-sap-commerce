@@ -1,6 +1,6 @@
 # Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Test Awesome Hybris](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/main.yml/badge.svg)](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/main.yml) [![Test Dead Link](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/404-links.yml/badge.svg)](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/404-links.yml)
 
-> A curated list of delightful [SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US) (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. The useful resources for SAP Commerce Developers are below.
+> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. The useful resources for SAP Commerce Developers are below.
 
 Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) list.
 
@@ -42,6 +42,7 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
 - [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - It has several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
 - [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html)
 - [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud)
+- [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - This is monthly news delivered directly to your inbox.
 
 _This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, it's important to know which version your customer is using._
 
@@ -50,6 +51,7 @@ _This website contains SAP Commerce ZIP files, with new [versions](https://help.
 _These two websites are going to migrate to [Learning SAP](https://learning.sap.com/) on July 2024._
 
 - [SAP Micro Learning](https://microlearning.opensap.com/channel/Expert%2BSAP%2BCommerce%2BCloud/178317971) - Login required.
+- [Open SAP Courses](https://open.sap.com/courses?q=sap+commerce&button=&channel=&lang=&category=&topic=) - It has some free courses about SAP Commerce.
 
 ### Java Doc
 
@@ -140,12 +142,12 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 
 _Useful posts/articles on LinkedIn._
 
-- [Nuray Fahri Posts](https://www.linkedin.com/in/nuray-fahri-19b771b2/recent-activity/all/)
-- [Krishna Batham Documents](https://www.linkedin.com/in/krishnabatham/recent-activity/documents/)
 - [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
+- [Krishna Batham Documents](https://www.linkedin.com/in/krishnabatham/recent-activity/documents/)
 - [Erhan Cetin Articles](https://www.linkedin.com/in/erhancetin/recent-activity/articles/)
-- [Abhinavpat Posts](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
+- [Nuray Fahri Articles](https://www.linkedin.com/in/nuray-fahri-19b771b2/recent-activity/articles/)
 - [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
+- [Abhinavpat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
 
 ### Videos
 
@@ -156,6 +158,7 @@ _Useful YouTube Channels._
 - [Chenna RRRS](https://www.youtube.com/@chennarrrs3886)
 - [Mohit Trivedi](https://www.youtube.com/@mohyth1)
 - [Yours Tanmay](https://www.youtube.com/@YoursTanmay)
+- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce)
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459)
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772)
 - [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430)
