@@ -1,4 +1,4 @@
-# Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Test Awesome Hybris](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/main.yml/badge.svg)](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/main.yml)
+# Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Dead link checker](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/404-links..yml/badge.svg)](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/404-links..yml)
 
 > A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. The useful resources for SAP Commerce Developers are below.
 
