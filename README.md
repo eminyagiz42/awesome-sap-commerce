@@ -1,6 +1,6 @@
 # Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Test Awesome Hybris](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/main.yml/badge.svg)](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/main.yml) [![Test Dead Link](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/404-links.yml/badge.svg)](https://github.com/eminyagiz42/awesome-hybris/actions/workflows/404-links.yml)
 
-> A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. The useful resources for SAP Commerce Developers are below.
+> A curated list of delightful [SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US) (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. The useful resources for SAP Commerce Developers are below.
 
 Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) list.
 
@@ -140,11 +140,11 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 
 _Useful posts/articles on LinkedIn._
 
-- [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
-- [Nuray Fahri Articles](https://www.linkedin.com/in/nuray-fahri-19b771b2/recent-activity/articles/)
+- [Nuray Fahri Posts](https://www.linkedin.com/in/nuray-fahri-19b771b2/recent-activity/all/)
 - [Krishna Batham Documents](https://www.linkedin.com/in/krishnabatham/recent-activity/documents/)
+- [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
 - [Erhan Cetin Articles](https://www.linkedin.com/in/erhancetin/recent-activity/articles/)
-- [Abhinavpat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
+- [Abhinavpat Posts](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
 - [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
 
 ### Videos
