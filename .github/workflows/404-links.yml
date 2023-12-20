@@ -13,4 +13,4 @@ jobs:
       - name: Check links
         uses: restqa/404-links@3.1.4
         with:
-          ignore: "https://www.sap.com/*"
+          ignore: https://www.sap.com/*
