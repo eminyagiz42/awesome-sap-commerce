@@ -13,9 +13,4 @@ jobs:
       - name: Check links
         uses: restqa/404-links@3.1.4
         with:
-          path: .
-            ignore:
-              urls:
-                - https://www.sap.com/*
-                - https://open.sap.com/*
-                - https://www.linkedin.com/in/*
+          ignore: "https://www.sap.com/products/crm/commerce-cloud.html"
