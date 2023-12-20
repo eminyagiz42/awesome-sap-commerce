@@ -53,7 +53,7 @@ _This website contains SAP Commerce ZIP files, with new [versions](https://help.
 _These two websites are going to migrate to [Learning SAP](https://learning.sap.com/) on July 2024._
 
 - [SAP Micro Learning](https://microlearning.opensap.com/channel/Expert%2BSAP%2BCommerce%2BCloud/178317971) - Login required.
-- [Open SAP Courses](https://open.sap.com/) - It has some free courses about SAP Commerce.
+- [Open SAP Courses](https://open.sap.com/courses?q=sap+commerce&button=&channel=&lang=&category=&topic=) - It has some free courses about SAP Commerce.
 
 ### Java Doc
 
@@ -82,7 +82,7 @@ _Sites to read._
 
 - [hybrismart](https://hybrismart.com/) - Recommended article: [hybris skill tree](https://hybrismart.com/2016/08/14/hybris-development-skill-tree/)
 - [mkysoft hybris](https://gunce.mkysoft.com/category/sap/hybris/)
-- [ozkancinar hybris](https://https://ozkancinar.net/category/hybris/)
+- [ozkancinar hybris](https://ozkancinar.net/category/hybris/)
 - [javainsimpleway](http://javainsimpleway.com/)
 - [stackextend hybris](https://www.stackextend.com/category/hybris/)
 - [clutcher GitHub blog](https://clutcher.github.io/tags/hybris/)
