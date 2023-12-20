@@ -20,8 +20,6 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
   - [Books](#books)
   - [Tools](#tools)
   - [GitHub](#github)
-  - [Twitter](#twitter)
-  - [Udemy Courses](#udemy-courses)
 - [Related Technologies](#related-technologies)
   - [Ant](#ant)
   - [Groovy](#groovy)
@@ -44,7 +42,6 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
 - [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - It has several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
 - [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html)
 - [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud)
-- [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - This is monthly news delivered directly to your inbox.
 
 _This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, it's important to know which version your customer is using._
 
@@ -53,7 +50,6 @@ _This website contains SAP Commerce ZIP files, with new [versions](https://help.
 _These two websites are going to migrate to [Learning SAP](https://learning.sap.com/) on July 2024._
 
 - [SAP Micro Learning](https://microlearning.opensap.com/channel/Expert%2BSAP%2BCommerce%2BCloud/178317971) - Login required.
-- [Open SAP Courses](https://open.sap.com/courses?q=sap+commerce&button=&channel=&lang=&category=&topic=) - It has some free courses about SAP Commerce.
 
 ### Java Doc
 
@@ -89,7 +85,6 @@ _Sites to read._
 - [hybrisarchitect](https://hybrisarchitect.com/)
 - [expertshybris](https://www.expertshybris.com/)
 - [helphybris](https://www.helphybris.com/)
-- [runhybris](https://www.runhybris.com/blog/)
 - [hybrisdiary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/)
 - [hybrisdeepdive](https://hybrisdeepdive.com/index.php/)
 - [hybrisworld](https://hybrisworld.wordpress.com/)
@@ -146,11 +141,11 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 _Useful posts/articles on LinkedIn._
 
 - [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
+- [Nuray Fahri Articles](https://www.linkedin.com/in/nuray-fahri-19b771b2/recent-activity/articles/)
 - [Krishna Batham Documents](https://www.linkedin.com/in/krishnabatham/recent-activity/documents/)
 - [Erhan Cetin Articles](https://www.linkedin.com/in/erhancetin/recent-activity/articles/)
-- [Nuray Fahri Articles](https://www.linkedin.com/in/nuray-fahri-19b771b2/recent-activity/articles/)
-- [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
 - [Abhinavpat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
+- [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
 
 ### Videos
 
@@ -161,7 +156,6 @@ _Useful YouTube Channels._
 - [Chenna RRRS](https://www.youtube.com/@chennarrrs3886)
 - [Mohit Trivedi](https://www.youtube.com/@mohyth1)
 - [Yours Tanmay](https://www.youtube.com/@YoursTanmay)
-- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce)
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459)
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772)
 - [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430)
@@ -216,17 +210,6 @@ _Search by Tags on GitHub._
 - [SAP Hybris](https://github.com/topics/sap-hybris)
 - [SAP Commerce](https://github.com/topics/sap-commerce)
 - [SAP Commerce Cloud](https://github.com/topics/sap-commerce-cloud)
-
-### Twitter
-
-- [hashtaghybris](https://twitter.com/hashtaghybris) - It's also a Slack Community for the Hybris, unfortunately not active.
-
-### Udemy Courses
-
-_These courses are useful, but It does not cover the latest version._
-
-- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
-- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
 
 ## Related Technologies
 
