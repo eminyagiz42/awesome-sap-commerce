@@ -1,0 +1,5 @@
+ignore:
+  urls:
+    - https://www.sap.com/*
+    - https://open.sap.com/*
+    - https://www.linkedin.com/in/*
