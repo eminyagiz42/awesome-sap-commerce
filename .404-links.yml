@@ -5,3 +5,6 @@ ignore:
     - https://www.sap.com/*
     - https://open.sap.com/*
     - https://www.linkedin.com/in/*
+    - https://twitter.com/*
+    - https://www.udemy.com/course/*
+    - https://vimeo.com/*

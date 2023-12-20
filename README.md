@@ -20,6 +20,8 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
   - [Books](#books)
   - [Tools](#tools)
   - [GitHub](#github)
+  - [Twitter](#twitter)
+  - [Udemy Courses](#udemy-courses)
 - [Related Technologies](#related-technologies)
   - [Ant](#ant)
   - [Groovy](#groovy)
@@ -142,10 +144,11 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 
 _Useful posts/articles on LinkedIn._
 
-- [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
-- [Krishna Batham Documents](https://www.linkedin.com/in/krishnabatham/recent-activity/documents/)
-- [Erhan Cetin Articles](https://www.linkedin.com/in/erhancetin/recent-activity/articles/)
 - [Nuray Fahri Articles](https://www.linkedin.com/in/nuray-fahri-19b771b2/recent-activity/articles/)
+- [Erhan Cetin Articles](https://www.linkedin.com/in/erhancetin/recent-activity/articles/)
+- [Krishna Batham Documents](https://www.linkedin.com/in/krishnabatham/recent-activity/documents/)
+- [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
+- [Jai Gangadar Articles](https://www.linkedin.com/in/sap-commercecloud-trainer/recent-activity/articles/)
 - [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
 - [Abhinavpat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
 
@@ -153,16 +156,15 @@ _Useful posts/articles on LinkedIn._
 
 _Useful YouTube Channels._
 
-- [Hybris Tube](https://www.youtube.com/@hybristube) - It requires the fee to access the videos.
 - [Nitin Kumar](https://www.youtube.com/@NitinKumarHybris)
 - [Chenna RRRS](https://www.youtube.com/@chennarrrs3886)
-- [Mohit Trivedi](https://www.youtube.com/@mohyth1)
 - [Yours Tanmay](https://www.youtube.com/@YoursTanmay)
+- [Mohit Trivedi](https://www.youtube.com/@mohyth1)
+- [Hybris Tube](https://www.youtube.com/@hybristube) - Private videos are accessible to Paid Membership.
+- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce)
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459)
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772)
 - [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430)
-- [LearnChase](https://www.youtube.com/@LearnChase) - It's released on 2018.
-- [Run Hybris](https://www.youtube.com/@runhybris6360) - It's released on 2017.
 - [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris)
 - [Sagarmeena](https://www.youtube.com/@sagarmeena2596)
 - [Dasdilko](https://www.youtube.com/@dasdilko)
@@ -176,6 +178,9 @@ _Useful YouTube Channels._
 - [Best Practices](https://www.youtube.com/watch?v=MhuNK1Ddlqg)
 - [Webinar: SAP Commerce And Spartacus](https://www.youtube.com/watch?v=HLpewBG7dxg)
 - [SAP Commerce Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4)
+- [LearnChase](https://www.youtube.com/@LearnChase) - It's released on 2018.
+- [Run Hybris](https://www.youtube.com/@runhybris6360) - It's released on 2017.
+- [Richard Romanowski](https://www.youtube.com/@richardromanowski1) -  It has videos released on 2017.
 
 ### Books
 
@@ -212,6 +217,17 @@ _Search by Tags on GitHub._
 - [SAP Hybris](https://github.com/topics/sap-hybris)
 - [SAP Commerce](https://github.com/topics/sap-commerce)
 - [SAP Commerce Cloud](https://github.com/topics/sap-commerce-cloud)
+
+### Twitter
+
+- [hashtaghybris](https://twitter.com/hashtaghybris) - It's also a Slack Community for the Hybris, unfortunately not active.
+
+### Udemy Courses
+
+_These courses are useful, but It does not cover the latest version._
+
+- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
+- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
 
 ## Related Technologies
 
