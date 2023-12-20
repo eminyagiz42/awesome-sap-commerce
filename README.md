@@ -20,6 +20,8 @@ Inspired by the [awesome-java](https://github.com/akullpp/awesome-java#readme) l
   - [Books](#books)
   - [Tools](#tools)
   - [GitHub](#github)
+  - [Twitter](#twitter)
+  - [Udemy Courses](#udemy-courses)
 - [Related Technologies](#related-technologies)
   - [Ant](#ant)
   - [Groovy](#groovy)
@@ -158,6 +160,7 @@ _Useful YouTube Channels._
 - [Chenna RRRS](https://www.youtube.com/@chennarrrs3886)
 - [Mohit Trivedi](https://www.youtube.com/@mohyth1)
 - [Yours Tanmay](https://www.youtube.com/@YoursTanmay)
+- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce)
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459)
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772)
 - [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430)
@@ -212,6 +215,17 @@ _Search by Tags on GitHub._
 - [SAP Hybris](https://github.com/topics/sap-hybris)
 - [SAP Commerce](https://github.com/topics/sap-commerce)
 - [SAP Commerce Cloud](https://github.com/topics/sap-commerce-cloud)
+
+### Twitter
+
+- [hashtaghybris](https://twitter.com/hashtaghybris) - It's also a Slack Community for the Hybris, unfortunately not active.
+
+### Udemy Courses
+
+_These courses are useful, but It does not cover the latest version._
+
+- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
+- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
 
 ## Related Technologies
 
