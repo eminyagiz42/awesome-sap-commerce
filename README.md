@@ -158,7 +158,6 @@ _Useful YouTube Channels._
 - [Chenna RRRS](https://www.youtube.com/@chennarrrs3886)
 - [Mohit Trivedi](https://www.youtube.com/@mohyth1)
 - [Yours Tanmay](https://www.youtube.com/@YoursTanmay)
-- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce)
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459)
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772)
 - [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430)
