@@ -3,4 +3,4 @@ delay:
 ignore:
   urls: # Array of url to ignore
     - https://www.sap.com/products/crm/commerce-cloud.html
-    -  https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html
+    - https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html
