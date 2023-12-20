@@ -1,7 +1,10 @@
 name: Test Awesome Lint
 on:
+  push:
+    branches: [ main ]
   pull_request:
-    branches: [main]
+    types: [assigned, opened, synchronize, reopened]
+
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
