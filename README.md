@@ -152,33 +152,34 @@ _Useful posts/articles on LinkedIn._
 
 ### Videos
 
-_Useful YouTube Channels._
+_YouTube channels that are organized according to the latest released videos._
 
-- [Nitin Kumar](https://www.youtube.com/@NitinKumarHybris)
-- [Chenna RRRS](https://www.youtube.com/@chennarrrs3886)
-- [Yours Tanmay](https://www.youtube.com/@YoursTanmay)
-- [Mohit Trivedi](https://www.youtube.com/@mohyth1)
-- [Hybris Tube](https://www.youtube.com/@hybristube) - Private videos are accessible to Paid Membership.
-- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce)
-- [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459)
-- [Hybris Store](https://www.youtube.com/@hybrisstore9772)
-- [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430)
-- [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris)
-- [Sagarmeena](https://www.youtube.com/@sagarmeena2596)
-- [Dasdilko](https://www.youtube.com/@dasdilko)
-- [sushiljain](https://www.youtube.com/@sushiljain1719)
-- [EPAM ukraine](https://www.youtube.com/watch?v=JxvRhGb4W04&list=PLFjpByuUbtfj95KEcuwXxijzMrFy4fN_b)
-- [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147)
-- [Spartacus](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3)
-- [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0)
-- [SAP Commerce B2B Demo](https://www.youtube.com/watch?v=9JmmPFJ0BGM)
-- [Hybris improve performance](https://www.youtube.com/watch?v=cIHHxlNoEAM)
-- [Best Practices](https://www.youtube.com/watch?v=MhuNK1Ddlqg)
-- [Webinar: SAP Commerce And Spartacus](https://www.youtube.com/watch?v=HLpewBG7dxg)
-- [SAP Commerce Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4)
-- [LearnChase](https://www.youtube.com/@LearnChase) - It's released on 2018.
-- [Run Hybris](https://www.youtube.com/@runhybris6360) - It's released on 2017.
-- [Richard Romanowski](https://www.youtube.com/@richardromanowski1) -  It has videos released on 2017.
+- [Chenna RRRS](https://www.youtube.com/@chennarrrs3886) - 2023.
+- [Nitin Kumar](https://www.youtube.com/@NitinKumarHybris) - 2023.
+- [Yours Tanmay](https://www.youtube.com/@YoursTanmay) - 2023.
+- [Dasdilko](https://www.youtube.com/@dasdilko) - 2023.
+- [Hybris Tube](https://www.youtube.com/@hybristube) - 2023. It's member only contents.
+- [Sushil Jain](https://www.youtube.com/@sushiljain1719) - 2023.
+- [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430) - 2022.
+- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce) - 2022.
+- [SAP Commerce Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4) - 2022.
+- [Mohit Trivedi](https://www.youtube.com/@mohyth1) - 2021.
+- [Hybris Store](https://www.youtube.com/@hybrisstore9772) - 2021.
+- [Sagarmeena](https://www.youtube.com/@sagarmeena2596) - 2021.
+- [Divante Spartacus](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3) - 2021.
+- [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147) - 2021.
+- [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459) - 2020.
+- [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - 2020.
+- [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0) - 2020.
+- [Portaltech Reply B2B Demo](https://www.youtube.com/watch?v=9JmmPFJ0BGM) - 2020.
+- [Hybris improve performance](https://www.youtube.com/watch?v=cIHHxlNoEAM) - 2020.
+- [Webinar: SAP Commerce And Spartacus](https://www.youtube.com/watch?v=HLpewBG7dxg) - 2020.
+- [Nvizion Solutions Best Practices](https://www.youtube.com/watch?v=MhuNK1Ddlqg) - 2019.
+- [EPAM Ukraine](https://www.youtube.com/watch?v=JxvRhGb4W04&list=PLFjpByuUbtfj95KEcuwXxijzMrFy4fN_b) - 2019.
+- [LearnChase](https://www.youtube.com/@LearnChase) - 2018.
+- [Richard Romanowski](https://www.youtube.com/@richardromanowski1) - 2017.
+- [Shrinivas AEM Online Training](https://www.youtube.com/watch?v=VI1nqB5IMN0&list=PLMi-rAWkDjMGmgAgmh4uwuhBMbxA22H5B) - 2017.
+- [Run Hybris](https://www.youtube.com/@runhybris6360) - 2017.
 
 ### Books
 
