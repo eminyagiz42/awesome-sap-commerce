@@ -88,7 +88,6 @@ _Sites to read._
 - [expertshybris](https://www.expertshybris.com/)
 - [helphybris](https://www.helphybris.com/)
 - [hybrisdiary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/)
-- [hybrisdeepdive](https://hybrisdeepdive.com/index.php/)
 - [hybrisworld](https://hybrisworld.wordpress.com/)
 - [indainhybris](https://indainhybris.blogspot.com/)
 - [hybriswithakash](https://hybriswithakash.wordpress.com/)
@@ -106,6 +105,12 @@ _Sites to read._
 - [groundlevelhybris](https://groundlevelhybris.wordpress.com/category/hybris/)
 - [hybrisguy](https://hybrisguy.wordpress.com/)
 - [hybrisexplained](https://hybrisexplained.wordpress.com/) - It's not active since 2013.
+
+_Web Archived Blogs_
+
+- [hybrisdeepdive](https://web.archive.org/web/20230330045444/https://hybrisdeepdive.com/)
+- [hybriscx](https://web.archive.org/web/20200815083359/http://www.hybriscx.com/)
+- [techhybris](https://web.archive.org/web/20200625020937/http://techhybris.com:80/)
 
 ### SAP Blog Posts
 
@@ -174,6 +179,7 @@ _YouTube channels that are organized according to the latest released videos._
 - [Portaltech Reply B2B Demo](https://www.youtube.com/watch?v=9JmmPFJ0BGM) - 2020.
 - [Hybris improve performance](https://www.youtube.com/watch?v=cIHHxlNoEAM) - 2020.
 - [Webinar: SAP Commerce And Spartacus](https://www.youtube.com/watch?v=HLpewBG7dxg) - 2020.
+- [Training Cube](https://www.youtube.com/watch?v=ETdgwtDTVqI&list=PLCr6lunQ8EQIEEzuFYIwcFit6A3R7H1aD&index=2) - 2020.
 - [Nvizion Solutions Best Practices](https://www.youtube.com/watch?v=MhuNK1Ddlqg) - 2019.
 - [EPAM Ukraine](https://www.youtube.com/watch?v=JxvRhGb4W04&list=PLFjpByuUbtfj95KEcuwXxijzMrFy4fN_b) - 2019.
 - [LearnChase](https://www.youtube.com/@LearnChase) - 2018.
