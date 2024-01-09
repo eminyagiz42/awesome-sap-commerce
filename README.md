@@ -9,8 +9,8 @@
   - [Official Sites](#official-sites)
   - [Java Doc](#java-doc)
   - [Certification](#certification)
-  - [Blogs](#blogs)
   - [SAP Blog Posts](#sap-blog-posts)
+  - [Blogs](#blogs)
   - [Stack Overflow](#stack-overflow)
   - [Medium Articles](#medium-articles)
   - [LinkedIn Blogs](#linkedin-blogs)
@@ -37,6 +37,7 @@
 - [Blogs SAP Hybris](https://blogs.sap.com/tag/sap-hybris/)
 - [Answers SAP Commerce](https://answers.sap.com/tags/67837800100800007216)
 - [SAP Commerce Terminology](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/12be4ac419604b01aabb1adeb2c4c8a2/8bc7d09486691014ac87950f99acad26.html?locale=en-US)
+- [SAP Learning: Technical Essentials of Sap Commerce](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud)
 - [Learning Journeys](https://help.sap.com/learning-journeys/overview?search=sap%20commerce)
 - [SAP Learning Hub](https://learninghub.sap.com/) - Subscription required.
 - [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - It has several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
@@ -73,7 +74,14 @@ _These are official SAP Developer certificates, essential for staying up-to-date
 _For more information about valid certifications on [SAP Training](https://training.sap.com/certification/validity)._
 
 - [SAP Certification Hub](https://sapcertification.questionmark.com/700161/ext/CertificationHub/)
-  
+
+### SAP Blog Posts
+
+_Technical articles about SAP Commerce._
+
+- [SAP Commerce Tag](https://blogs.sap.com/tags/67837800100800007216)
+- [SAP Commerce Cloud Tag](https://blogs.sap.com/tags/73555000100800001224)
+
 ### Blogs
 
 _Sites to read._
@@ -111,12 +119,6 @@ _Web Archived Blogs_
 - [hybrisdeepdive](https://web.archive.org/web/20230330045444/https://hybrisdeepdive.com/)
 - [hybriscx](https://web.archive.org/web/20200815083359/http://www.hybriscx.com/)
 - [techhybris](https://web.archive.org/web/20200625020937/http://techhybris.com:80/)
-
-### SAP Blog Posts
-
-_Technical articles about SAP Commerce._
-
-- [SAP Commerce Tag](https://blogs.sap.com/tags/67837800100800007216/?orderby=likes)
 
 ### Stack Overflow
 
