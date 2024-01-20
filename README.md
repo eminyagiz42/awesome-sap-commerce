@@ -91,7 +91,7 @@ _Sites to read._
 - [ozkancinar hybris](https://ozkancinar.net/category/hybris/)
 - [javainsimpleway](http://javainsimpleway.com/)
 - [stackextend hybris](https://www.stackextend.com/category/hybris/)
-- [clutcher GitHub blog](https://clutcher.github.io/tags/hybris/)
+- [CX Insights](https://clutcher.github.io/tags/hybris/) - It's a GitHub Blog by Igor Zarvanskyi.
 - [hybrisarchitect](https://hybrisarchitect.com/)
 - [expertshybris](https://www.expertshybris.com/)
 - [helphybris](https://www.helphybris.com/)
