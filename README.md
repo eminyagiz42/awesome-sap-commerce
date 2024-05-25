@@ -242,7 +242,6 @@ _These courses are useful, but It does not cover the latest version._
 
 - [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
 - [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
-- [masterbyjavainsimpleway hybris](https://www.masterbyjavainsimpleway.com/courses/Hybris-Core-and-Commerce-63c90252e4b0c55293c856f7)
 
 ## Related Technologies
 
