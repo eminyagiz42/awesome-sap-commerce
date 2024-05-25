@@ -33,8 +33,8 @@
 ### Official Sites
 
 - [Help SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US)
-- [Community SAP Commerce Cloud](https://community.sap.com/topics/commerce-cloud)
-- [Blogs SAP Commerce](https://blogs.sap.com/tag/sap-hybris/)
+- [Community SAP Commerce Cloud](https://pages.community.sap.com/topics/commerce-cloud)
+- [Learning Commerce Cloud](https://learning.sap.com/products/customer-experience/commerce-cloud)
 - [Answers SAP Commerce](https://answers.sap.com/tags/67837800100800007216)
 - [SAP Commerce Terminology](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/12be4ac419604b01aabb1adeb2c4c8a2/8bc7d09486691014ac87950f99acad26.html?locale=en-US)
 - [SAP Learning: Technical Essentials of Sap Commerce](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud)
@@ -78,7 +78,7 @@ _For more information about valid certifications on [SAP Training](https://train
 ### SAP Blog Posts
 
 _Technical articles about SAP Commerce._
-
+https://pages.community.sap.com/topics/commerce-cloud
 - [SAP Commerce Tag](https://blogs.sap.com/tags/67837800100800007216)
 - [SAP Commerce Cloud Tag](https://blogs.sap.com/tags/73555000100800001224)
 
@@ -91,8 +91,7 @@ _Sites to read._
 - [ozkancinar hybris](https://ozkancinar.net/category/hybris/)
 - [javainsimpleway](http://javainsimpleway.com/)
 - [stackextend hybris](https://www.stackextend.com/category/hybris/)
-- [CX Insights](https://clutcher.github.io/tags/hybris/) - It's a GitHub Blog by Igor Zarvanskyi.
-- [hybrisarchitect](https://hybrisarchitect.com/)
+- [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - It's a GitHub Blog by Igor Zarvanskyi.
 - [expertshybris](https://www.expertshybris.com/)
 - [helphybris](https://www.helphybris.com/)
 - [hybrisdiary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/)
@@ -103,15 +102,18 @@ _Sites to read._
 - [hybrisinfo](https://hybrisinfo.wordpress.com/)  
 - [sapspaces](https://sapspaces.com/tag/sap-hybris-as-a-service/)
 - [expert-soft](https://blog.expert-soft.com/category/for-programmer/)
-- [checkedexception hybris](https://checkedexception.com/search?q=hybris)
 - [enterprise-developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/)
-- [waqasaslam hybris](https://waqasaslam.me/category/hybris/)
 - [mjyothula hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/)
 - [programmersought](https://www.programmersought.com/article/93321908468/)
 - [hybrisinfo](https://hybrisinfo.com/)
 - [betamaster](https://www.betamaster.us/blog/?s=hybris)
 - [groundlevelhybris](https://groundlevelhybris.wordpress.com/category/hybris/)
 - [hybrisguy](https://hybrisguy.wordpress.com/)
+- [sap cx expert](https://sapcxexpert.in/)
+- [hybriswithakash](https://hybriswithakash.wordpress.com/preparation-for-hybris-setup/)
+- [stefankruk hybris](https://stefankruk.wordpress.com/tag/e-commerce/)
+- [Piotr Wittchen hybris](https://wittchen.io/posts/building-sap-hybris-commerce-suite-via-gradle/)
+- [jrebel manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html)
 - [hybrisexplained](https://hybrisexplained.wordpress.com/) - It's not active since 2013.
 
 _Web Archived Blogs_
@@ -144,6 +146,7 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 - [Filip S. Perišić Articles](https://medium.com/@fsp_bgd)
 - [Acacio Capela Articles](https://medium.com/@acacio.capela)
 - [Amine Annabi Articles](https://medium.com/@annabi.medamine)
+- [Mert Misirli Articles](https://medium.com/@misirlimert1996)
 
 ### LinkedIn Blogs
 
@@ -156,6 +159,8 @@ _Useful posts/articles on LinkedIn._
 - [Jai Gangadar Articles](https://www.linkedin.com/in/sap-commercecloud-trainer/recent-activity/articles/)
 - [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
 - [Abhinavpat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
+- [Naveen Kumar R. Articles](https://www.linkedin.com/in/rajagopalnk/recent-activity/articles/)
+- [Avinash Jadhav Articles](https://www.linkedin.com/in/avinash-jadhav-090b2a5a/recent-activity/articles/)
 
 ### Videos
 
@@ -167,6 +172,8 @@ _YouTube channels that are organized according to the latest released videos._
 - [Dasdilko](https://www.youtube.com/@dasdilko) - 2023.
 - [Hybris Tube](https://www.youtube.com/@hybristube) - 2023. It's member only contents.
 - [Sushil Jain](https://www.youtube.com/@sushiljain1719) - 2023.
+- [Pines Tran](https://www.youtube.com/@pinestran) - 2023.
+- [SAP E-Commerce Planet](https://www.youtube.com/@sape-commerceplanet) - 2023.
 - [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430) - 2022.
 - [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce) - 2022.
 - [SAP Commerce Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4) - 2022.
@@ -229,12 +236,13 @@ _Search by Tags on GitHub._
 
 - [hashtaghybris](https://twitter.com/hashtaghybris) - It's also a Slack Community for the Hybris, unfortunately not active.
 
-### Udemy Courses
+### Paid Courses
 
 _These courses are useful, but It does not cover the latest version._
 
 - [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
 - [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
+- [masterbyjavainsimpleway hybris](https://www.masterbyjavainsimpleway.com/courses/Hybris-Core-and-Commerce-63c90252e4b0c55293c856f7)
 
 ## Related Technologies
 
@@ -255,12 +263,14 @@ _Apache Groovy is a functional programming language, that can be possible to run
 _Apache Solr is the default search engine._
 
 - [Apache Solr](https://solr.apache.org/)
+- [Yonik Solr](https://yonik.com/solr/query-syntax/)
 
 ### Spartacus
 
 _Spartacus is a lean Angular-based JavaScript storefront for SAP Commerce Cloud that replaced JSP Storefront. Recently, It re-branded as SAP Composable Storefront._
 
 - [Spartacus Documentation](https://sap.github.io/spartacus-docs/)
+- [Vercel Integration for SAP Composable Storefront](https://vercel.com/guides/integration-guide-for-sap-composable-storefront)
 - [Angular 101 Medium](https://medium.com/javarevisited/angular-101-a-technical-understanding-onwhere-it-fits-in-application-development-766622d9baff)
 
 
