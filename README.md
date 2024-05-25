@@ -1,4 +1,4 @@
-# Awesome Hybris  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome SAP Commerce  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 > A curated list of delightful [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html) (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. The useful resources for SAP Commerce Developers are below.
 
@@ -34,7 +34,7 @@
 
 - [Help SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US)
 - [Community SAP Commerce Cloud](https://community.sap.com/topics/commerce-cloud)
-- [Blogs SAP Hybris](https://blogs.sap.com/tag/sap-hybris/)
+- [Blogs SAP Commerce](https://blogs.sap.com/tag/sap-hybris/)
 - [Answers SAP Commerce](https://answers.sap.com/tags/67837800100800007216)
 - [SAP Commerce Terminology](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/12be4ac419604b01aabb1adeb2c4c8a2/8bc7d09486691014ac87950f99acad26.html?locale=en-US)
 - [SAP Learning: Technical Essentials of Sap Commerce](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud)
@@ -56,9 +56,9 @@ _These two websites are going to migrate to [Learning SAP](https://learning.sap.
 
 ### Java Doc
 
-_Official Hybris Java Documentation._
+_Official SAP Commerce Java Documentation._
 
-- [SAP Hybris Java Doc](https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205/en-US/index.html)
+- [SAP Commerce Java Doc](https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205/en-US/index.html)
 
 _These APIs would be handy for integrating your application with SAP Commerce._
 
@@ -278,4 +278,4 @@ _Some Articles & Videos that prepared in Turkish._
 
 Contributions are very welcome!
 
-Please have a look at the [CONTRIBUTING](https://github.com/eminyagiz42/awesome-hybris/blob/main/CONTRIBUTING.md) guidelines and [the validation tools](https://github.com/sindresorhus/awesome-lint).
+Please have a look at the [CONTRIBUTING](https://github.com/eminyagiz42/awesome-sap-commerce/blob/main/CONTRIBUTING.md) guidelines and [the validation tools](https://github.com/sindresorhus/awesome-lint).
