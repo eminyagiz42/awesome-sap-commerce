@@ -19,7 +19,7 @@
   - [Tools](#tools)
   - [GitHub](#github)
   - [Twitter](#twitter)
-  - [Udemy Courses](#udemy-courses)
+  - [Paid Courses](#paid-courses)
 - [Related Technologies](#related-technologies)
   - [Ant](#ant)
   - [Groovy](#groovy)
