@@ -88,7 +88,7 @@ _Sites to read._
 
 - [Hybrismart](https://hybrismart.com/) - Recommended article: [hybris skill tree](https://hybrismart.com/2016/08/14/hybris-development-skill-tree/)
 - [Mkysoft Hybris](https://gunce.mkysoft.com/category/sap/hybris/)
-- [Özkan Çınar Hybris](https://ozkancinar.net/category/hybris/)
+- [Ozkancinar Hybris](https://ozkancinar.net/category/hybris/)
 - [Java in Simple Way](http://javainsimpleway.com/)
 - [Stack Extend hybris](https://www.stackextend.com/category/hybris/)
 - [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - a GitHub Blog by Igor Zarvanskyi.
@@ -112,7 +112,7 @@ _Sites to read._
 - [Stefankruk Hybris](https://stefankruk.wordpress.com/tag/e-commerce/)
 - [Piotr Wittchen hybris](https://wittchen.io/posts/building-sap-hybris-commerce-suite-via-gradle/)
 - [Jrebel Manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html)
-- [Hybris Explained](https://hybrisexplained.wordpress.com/) - not active since 2013.
+- [Hybris Explained](https://hybrisexplained.wordpress.com/) - Last activity in 2013.
 
 
 ### Stack Overflow
@@ -129,7 +129,7 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 - [Nuray Fahri Articles](https://medium.com/@nurayfahri)
 - [Mehmet Karahan Articles](https://mehmet-karahan.medium.com/)
 - [Prashanth Kumar Articles](https://prashanth-kumar-ms.medium.com/azure-devops-ci-cd-pipeline-for-sap-hybris-and-commerce-f301bc8c98ab)
-- [Manpreet Singh Articles](https://manpreetsinghdor.medium.com/list/sap-hybris-commerce-ca547d43501e) - a member-only content.
+- [Manpreet Singh Articles](https://manpreetsinghdor.medium.com/list/sap-hybris-commerce-ca547d43501e) - A member-only content.
 - [Oleksandr Lymanskyi Articles](https://medium.com/@neznajuskas)
 - [Gokul C. Pandey Articles](https://medium.com/@gokul.ch.pandey)
 - [Boufnichel Mohamed Articles](https://medium.com/@boufnichel.mohamed)
@@ -201,8 +201,8 @@ _You can buy the books on amazon._
 
 _Tools that makes SAP Commerce Developer life easier._
 
-- [Developers Toolset](https://plugins.jetbrains.com/plugin/12867-sap-commerce-developers-toolset) - a SAP Commerce Intellij plugin.
-- [JRebel](https://www.jrebel.com/blog/sap-hybris) - reduces build time significantly.
+- [Developers Toolset](https://plugins.jetbrains.com/plugin/12867-sap-commerce-developers-toolset) - A SAP Commerce Intellij plugin.
+- [JRebel](https://www.jrebel.com/blog/sap-hybris) - Reduces build time significantly.
 - [Hybris Integration Developer Workbench](https://blogs.sap.com/2017/01/23/hybris-integration-developer-workbench/#:~:text=Hybris%20Integration%20Developer%20Workbench%20is,Hub%20projects%20easily%20and%20quickly) - Eclipse based tool to model and create Data Hub.
 
 ### GitHub
