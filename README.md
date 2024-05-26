@@ -52,7 +52,7 @@ _This website contains SAP Commerce ZIP files, with new [versions](https://help.
 _These two websites are going to migrate to [Learning SAP](https://learning.sap.com/) on July 2024._
 
 - [SAP Micro Learning](https://microlearning.opensap.com/channel/Expert%2BSAP%2BCommerce%2BCloud/178317971) - Login required.
-- [Open SAP Courses](https://open.sap.com/courses?q=sap+commerce&button=&channel=&lang=&category=&topic=) - some free courses about SAP Commerce.
+- [Open SAP Courses](https://open.sap.com/courses?q=sap+commerce&button=&channel=&lang=&category=&topic=) - Some free courses about SAP Commerce.
 
 ### Java Doc
 
@@ -91,7 +91,7 @@ _Sites to read._
 - [Ozkancinar Hybris](https://ozkancinar.net/category/hybris/)
 - [Java in Simple Way](http://javainsimpleway.com/)
 - [Stack Extend hybris](https://www.stackextend.com/category/hybris/)
-- [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - a GitHub Blog by Igor Zarvanskyi.
+- [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - A GitHub Blog by Igor Zarvanskyi.
 - [Experts Hybris](https://www.expertshybris.com/)
 - [Help Hybris](https://www.helphybris.com/)
 - [Hybris Diary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/)
@@ -227,14 +227,14 @@ _Search by Tags on GitHub._
 
 ### Twitter
 
-- [hashtaghybris](https://twitter.com/hashtaghybris) - a Slack Community for the Hybris, unfortunately not active.
+- [hashtaghybris](https://twitter.com/hashtaghybris) - A Slack Community for the Hybris, unfortunately not active.
 
 ### Paid Courses
 
 _These courses are useful, but It does not cover the latest version._
 
-- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - a free course.
-- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
+- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - A free course.
+- [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - Released on 2018.
 
 ## Related Technologies
 
