@@ -40,19 +40,19 @@
 - [SAP Learning: Technical Essentials of Sap Commerce](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud)
 - [Learning Journeys](https://help.sap.com/learning-journeys/overview?search=sap%20commerce)
 - [SAP Learning Hub](https://learninghub.sap.com/) - Subscription required.
-- [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - It has several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
+- [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - Several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
 - [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html)
 - [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud)
 - [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - This is monthly news delivered directly to your inbox.
 
-_This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, it's important to know which version your customer is using._
+_This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, important to know which version your customer is using._
 
 - [Download SAP Commerce](https://launchpad.support.sap.com/#/softwarecenter/search/SAP%2520Commerce%2520Cloud%2520V2) - S-user is required to login.
 
 _These two websites are going to migrate to [Learning SAP](https://learning.sap.com/) on July 2024._
 
 - [SAP Micro Learning](https://microlearning.opensap.com/channel/Expert%2BSAP%2BCommerce%2BCloud/178317971) - Login required.
-- [Open SAP Courses](https://open.sap.com/courses?q=sap+commerce&button=&channel=&lang=&category=&topic=) - It has some free courses about SAP Commerce.
+- [Open SAP Courses](https://open.sap.com/courses?q=sap+commerce&button=&channel=&lang=&category=&topic=) - some free courses about SAP Commerce.
 
 ### Java Doc
 
@@ -163,7 +163,7 @@ _YouTube channels that are organized according to the latest released videos._
 - [Nitin Kumar](https://www.youtube.com/@NitinKumarHybris) - 2023.
 - [Yours Tanmay](https://www.youtube.com/@YoursTanmay) - 2023.
 - [Dasdilko](https://www.youtube.com/@dasdilko) - 2023.
-- [Hybris Tube](https://www.youtube.com/@hybristube) - 2023. It's member only contents.
+- [Hybris Tube](https://www.youtube.com/@hybristube) - 2023. a member only content.
 - [Sushil Jain](https://www.youtube.com/@sushiljain1719) - 2023.
 - [Pines Tran](https://www.youtube.com/@pinestran) - 2023.
 - [SAP E-Commerce Planet](https://www.youtube.com/@sape-commerceplanet) - 2023.
@@ -201,9 +201,9 @@ _You can buy the books on amazon._
 
 _Tools that makes SAP Commerce Developer life easier._
 
-- [Developers Toolset](https://plugins.jetbrains.com/plugin/12867-sap-commerce-developers-toolset) - It's a SAP Commerce Intellij plugin.
-- [JRebel](https://www.jrebel.com/blog/sap-hybris) - It significantly reduces build time.
-- [Hybris Integration Developer Workbench](https://blogs.sap.com/2017/01/23/hybris-integration-developer-workbench/#:~:text=Hybris%20Integration%20Developer%20Workbench%20is,Hub%20projects%20easily%20and%20quickly) - It's for Eclipse based tool to model and create Data Hub.
+- [Developers Toolset](https://plugins.jetbrains.com/plugin/12867-sap-commerce-developers-toolset) - a SAP Commerce Intellij plugin.
+- [JRebel](https://www.jrebel.com/blog/sap-hybris) - reduces build time significantly.
+- [Hybris Integration Developer Workbench](https://blogs.sap.com/2017/01/23/hybris-integration-developer-workbench/#:~:text=Hybris%20Integration%20Developer%20Workbench%20is,Hub%20projects%20easily%20and%20quickly) - Eclipse based tool to model and create Data Hub.
 
 ### GitHub
 
@@ -227,13 +227,13 @@ _Search by Tags on GitHub._
 
 ### Twitter
 
-- [hashtaghybris](https://twitter.com/hashtaghybris) - It's also a Slack Community for the Hybris, unfortunately not active.
+- [hashtaghybris](https://twitter.com/hashtaghybris) - a Slack Community for the Hybris, unfortunately not active.
 
 ### Paid Courses
 
 _These courses are useful, but It does not cover the latest version._
 
-- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - It's a free course.
+- [Introduction to sap hybris](https://www.udemy.com/course/introduction-to-sap-hybris/) - a free course.
 - [Build an sap hybris environment](https://www.udemy.com/course/build-an-sap-hybris-environment/) - This course released on 2018.
 
 ## Related Technologies
