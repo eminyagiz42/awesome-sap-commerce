@@ -86,41 +86,34 @@ https://pages.community.sap.com/topics/commerce-cloud
 
 _Sites to read._
 
-- [hybrismart](https://hybrismart.com/) - Recommended article: [hybris skill tree](https://hybrismart.com/2016/08/14/hybris-development-skill-tree/)
-- [mkysoft hybris](https://gunce.mkysoft.com/category/sap/hybris/)
-- [ozkancinar hybris](https://ozkancinar.net/category/hybris/)
-- [javainsimpleway](http://javainsimpleway.com/)
-- [stackextend hybris](https://www.stackextend.com/category/hybris/)
-- [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - It's a GitHub Blog by Igor Zarvanskyi.
-- [expertshybris](https://www.expertshybris.com/)
-- [helphybris](https://www.helphybris.com/)
-- [hybrisdiary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/)
-- [hybrisworld](https://hybrisworld.wordpress.com/)
-- [indainhybris](https://indainhybris.blogspot.com/)
-- [hybriswithakash](https://hybriswithakash.wordpress.com/)
-- [hybrisinstructive](https://hybrisinstructive.blogspot.com/)                
-- [hybrisinfo](https://hybrisinfo.wordpress.com/)  
-- [sapspaces](https://sapspaces.com/tag/sap-hybris-as-a-service/)
-- [expert-soft](https://blog.expert-soft.com/category/for-programmer/)
-- [enterprise-developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/)
-- [mjyothula hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/)
-- [programmersought](https://www.programmersought.com/article/93321908468/)
-- [hybrisinfo](https://hybrisinfo.com/)
-- [betamaster](https://www.betamaster.us/blog/?s=hybris)
-- [groundlevelhybris](https://groundlevelhybris.wordpress.com/category/hybris/)
-- [hybrisguy](https://hybrisguy.wordpress.com/)
-- [sap cx expert](https://sapcxexpert.in/)
-- [hybriswithakash](https://hybriswithakash.wordpress.com/preparation-for-hybris-setup/)
-- [stefankruk hybris](https://stefankruk.wordpress.com/tag/e-commerce/)
+- [Hybrismart](https://hybrismart.com/) - Recommended article: [hybris skill tree](https://hybrismart.com/2016/08/14/hybris-development-skill-tree/)
+- [Mkysoft Hybris](https://gunce.mkysoft.com/category/sap/hybris/)
+- [Özkan Çınar Hybris](https://ozkancinar.net/category/hybris/)
+- [Java in Simple Way](http://javainsimpleway.com/)
+- [Stack Extend hybris](https://www.stackextend.com/category/hybris/)
+- [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - a GitHub Blog by Igor Zarvanskyi.
+- [Experts Hybris](https://www.expertshybris.com/)
+- [Help Hybris](https://www.helphybris.com/)
+- [Hybris Diary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/)
+- [Hybris World](https://hybrisworld.wordpress.com/)
+- [Indain Hybris](https://indainhybris.blogspot.com/)
+- [Hybris With Akash](https://hybriswithakash.wordpress.com/)
+- [Hybris Instructive](https://hybrisinstructive.blogspot.com/)                
+- [Sap Spaces](https://sapspaces.com/tag/sap-hybris-as-a-service/)
+- [Expert Soft](https://blog.expert-soft.com/category/for-programmer/)
+- [Hybris Info](https://hybrisinfo.wordpress.com/)
+- [Enterprise Developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/)
+- [Mjyothula Hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/)
+- [Programmers Ought](https://www.programmersought.com/article/93321908468/)
+- [Beta Master](https://www.betamaster.us/blog/?s=hybris)
+- [Ground Level Hybris](https://groundlevelhybris.wordpress.com/category/hybris/)
+- [Hybris Guy](https://hybrisguy.wordpress.com/)
+- [SAP CX Expert](https://sapcxexpert.in/)
+- [Stefankruk Hybris](https://stefankruk.wordpress.com/tag/e-commerce/)
 - [Piotr Wittchen hybris](https://wittchen.io/posts/building-sap-hybris-commerce-suite-via-gradle/)
-- [jrebel manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html)
-- [hybrisexplained](https://hybrisexplained.wordpress.com/) - It's not active since 2013.
+- [Jrebel Manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html)
+- [Hybris Explained](https://hybrisexplained.wordpress.com/) - not active since 2013.
 
-_Web Archived Blogs_
-
-- [hybrisdeepdive](https://web.archive.org/web/20230330045444/https://hybrisdeepdive.com/)
-- [hybriscx](https://web.archive.org/web/20200815083359/http://www.hybriscx.com/)
-- [techhybris](https://web.archive.org/web/20200625020937/http://techhybris.com:80/)
 
 ### Stack Overflow
 
@@ -136,7 +129,7 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 - [Nuray Fahri Articles](https://medium.com/@nurayfahri)
 - [Mehmet Karahan Articles](https://mehmet-karahan.medium.com/)
 - [Prashanth Kumar Articles](https://prashanth-kumar-ms.medium.com/azure-devops-ci-cd-pipeline-for-sap-hybris-and-commerce-f301bc8c98ab)
-- [Manpreet Singh Articles](https://manpreetsinghdor.medium.com/list/sap-hybris-commerce-ca547d43501e) - It's a member-only contents.
+- [Manpreet Singh Articles](https://manpreetsinghdor.medium.com/list/sap-hybris-commerce-ca547d43501e) - a member-only content.
 - [Oleksandr Lymanskyi Articles](https://medium.com/@neznajuskas)
 - [Gokul C. Pandey Articles](https://medium.com/@gokul.ch.pandey)
 - [Boufnichel Mohamed Articles](https://medium.com/@boufnichel.mohamed)
