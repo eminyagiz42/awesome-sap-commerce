@@ -44,7 +44,7 @@
 - [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html)
 - [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud)
 - [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - Monthly news delivered directly to your inbox.
-- [Jrebel Manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html) - helps to reduce build time.
+- [Jrebel Manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html) - Helps to reduce build time.
 
 _This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, important to know which version your customer is using._
 
@@ -92,7 +92,7 @@ _Sites to read._
 - [Ozkancinar Hybris](https://ozkancinar.net/category/hybris/) - A Blog by Özkan Çınar.
 - [Hybris Architect](https://hybrisarchitect.com/category/best-practice/) - A Blog by Marc Raygoza.
 - [Java in Simple Way](http://javainsimpleway.com/) - A Blog by Raj.
-- [Stack Extend hybris](https://www.stackextend.com/category/hybris/) - A Blog by Mouad EL Fakir
+- [Stack Extend hybris](https://www.stackextend.com/category/hybris/) - A Blog by Mouad EL Fakir.
 - [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - A GitHub Blog by Igor Zarvanskyi.
 - [Experts Hybris](https://www.expertshybris.com/) - A Blog by Shamsher Singh.
 - [Help Hybris](https://www.helphybris.com/) - A Blog by Ankitkumar Patel.
