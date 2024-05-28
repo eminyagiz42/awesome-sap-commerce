@@ -133,8 +133,8 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 - [Manpreet Singh Articles](https://manpreetsinghdor.medium.com/list/sap-hybris-commerce-ca547d43501e) - A member-only content.
 - [Oleksandr Lymanskyi Articles](https://medium.com/@neznajuskas)
 - [Gokul C. Pandey Articles](https://medium.com/@gokul.ch.pandey)
-- [Boufnichel Mohamed Articles](https://medium.com/@boufnichel.mohamed)
-- [Sandeep Tekslate Articles](https://medium.com/@sandeep.tekslate)
+- [Mohamed Boufnichel Articles](https://medium.com/@boufnichel.mohamed)
+- [Sandeep Kommineni Articles](https://medium.com/@sandeep.tekslate)
 - [Denis Lutz Articles](https://medium.com/@denlutz)
 - [Iulia Pasca Articles](https://iuliapasca.medium.com/)
 - [Filip S. Perišić Articles](https://medium.com/@fsp_bgd)
@@ -152,7 +152,7 @@ _Useful posts/articles on LinkedIn._
 - [Henry Truong Articles](https://www.linkedin.com/in/henry-truong-82205b20/recent-activity/articles/)
 - [Jai Gangadar Articles](https://www.linkedin.com/in/sap-commercecloud-trainer/recent-activity/articles/)
 - [Kaushik Ganguly Articles](https://www.linkedin.com/in/kaushik-ganguly-5b535b61/recent-activity/articles/)
-- [Abhinavpat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
+- [Abhinav Pat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
 - [Naveen Kumar R. Articles](https://www.linkedin.com/in/rajagopalnk/recent-activity/articles/)
 - [Avinash Jadhav Articles](https://www.linkedin.com/in/avinash-jadhav-090b2a5a/recent-activity/articles/)
 
@@ -179,7 +179,7 @@ _YouTube channels that are organized according to the latest released videos._
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459) - 2020.
 - [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - 2020.
 - [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0) - 2020.
-- [Portaltech Reply B2B Demo](https://www.youtube.com/watch?v=9JmmPFJ0BGM) - 2020.
+- [Portal Tech Reply B2B Demo](https://www.youtube.com/watch?v=9JmmPFJ0BGM) - 2020.
 - [Hybris improve performance](https://www.youtube.com/watch?v=cIHHxlNoEAM) - 2020.
 - [Webinar: SAP Commerce And Spartacus](https://www.youtube.com/watch?v=HLpewBG7dxg) - 2020.
 - [Training Cube](https://www.youtube.com/watch?v=ETdgwtDTVqI&list=PLCr6lunQ8EQIEEzuFYIwcFit6A3R7H1aD&index=2) - 2020.
@@ -273,7 +273,7 @@ _Some Articles & Videos that prepared in Turkish._
 
 - [Erkin Erol Blog](https://www.erkinerol.com/hybris-solr-ince-ayarlari/)
 - [Haratres Teknoloji Hybris 101](https://www.youtube.com/@haratresteknoloji/playlists)
-- [Yazili Ccity Blog](http://www.yazilimcity.net/adding-menu-to-sap-commerce-backoffice/)
+- [Yazilim City Blog](https://www.yazilimcity.net/category/java-technologies/java-sap-hybris/)
 - [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/)
 - [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/)
 
