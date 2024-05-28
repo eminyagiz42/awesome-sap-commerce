@@ -43,7 +43,8 @@
 - [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - Several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
 - [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html)
 - [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud)
-- [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - This is monthly news delivered directly to your inbox.
+- [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - Monthly news delivered directly to your inbox.
+- [Jrebel Manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html) - helps to reduce build time.
 
 _This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, important to know which version your customer is using._
 
@@ -78,40 +79,40 @@ _For more information about valid certifications on [SAP Training](https://train
 ### SAP Blog Posts
 
 _Technical articles about SAP Commerce._
-https://pages.community.sap.com/topics/commerce-cloud
-- [SAP Commerce Tag](https://blogs.sap.com/tags/67837800100800007216)
-- [SAP Commerce Cloud Tag](https://blogs.sap.com/tags/73555000100800001224)
+
+- [SAP Commerce Tag](https://community.sap.com/t5/c-khhcw49343/SAP+Commerce/pd-p/67837800100800007216)
+- [SAP Commerce Cloud Tag](https://community.sap.com/t5/c-khhcw49343/SAP+Commerce+Cloud/pd-p/73555000100800001224)
 
 ### Blogs
 
 _Sites to read._
 
-- [Hybrismart](https://hybrismart.com/) - Recommended article: [hybris skill tree](https://hybrismart.com/2016/08/14/hybris-development-skill-tree/)
-- [Mkysoft Hybris](https://gunce.mkysoft.com/category/sap/hybris/)
-- [Ozkancinar Hybris](https://ozkancinar.net/category/hybris/)
-- [Java in Simple Way](http://javainsimpleway.com/)
-- [Stack Extend hybris](https://www.stackextend.com/category/hybris/)
+- [Hybrismart](https://hybrismart.com/) - A Blog by Rauf Aliev. Recommended article: [hybris skill tree](https://hybrismart.com/2016/08/14/hybris-development-skill-tree/)
+- [Mkysoft Hybris](https://gunce.mkysoft.com/category/sap/hybris/) - A Blog by Mustafa Kerim Yılmaz.
+- [Ozkancinar Hybris](https://ozkancinar.net/category/hybris/) - A Blog by Özkan Çınar.
+- [Hybris Architect](https://hybrisarchitect.com/category/best-practice/) - A Blog by Marc Raygoza.
+- [Java in Simple Way](http://javainsimpleway.com/) - A Blog by Raj.
+- [Stack Extend hybris](https://www.stackextend.com/category/hybris/) - A Blog by Mouad EL Fakir
 - [CX Insights](https://clutcher.github.io/tags/sap-commerce/) - A GitHub Blog by Igor Zarvanskyi.
-- [Experts Hybris](https://www.expertshybris.com/)
-- [Help Hybris](https://www.helphybris.com/)
-- [Hybris Diary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/)
+- [Experts Hybris](https://www.expertshybris.com/) - A Blog by Shamsher Singh.
+- [Help Hybris](https://www.helphybris.com/) - A Blog by Ankitkumar Patel.
+- [Hybris Diary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/) - A Blog by Vinay Sharma.
 - [Hybris World](https://hybrisworld.wordpress.com/)
-- [Indain Hybris](https://indainhybris.blogspot.com/)
+- [Indain Hybris](https://indainhybris.blogspot.com/) - A Blog by Saikrishna.
 - [Hybris With Akash](https://hybriswithakash.wordpress.com/)
-- [Hybris Instructive](https://hybrisinstructive.blogspot.com/)                
-- [Sap Spaces](https://sapspaces.com/tag/sap-hybris-as-a-service/)
+- [Hybris Instructive](https://hybrisinstructive.blogspot.com/) - A Blog by Harish.
+- [Sap Spaces](https://sapspaces.com/tag/sap-hybris-as-a-service/) - A Blog by Sara Sampaio.
 - [Expert Soft](https://blog.expert-soft.com/category/for-programmer/)
-- [Hybris Info](https://hybrisinfo.wordpress.com/)
-- [Enterprise Developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/)
-- [Mjyothula Hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/)
+- [Hybris Info](https://hybrisinfo.wordpress.com/) - A Blog by nbhybris.
+- [Enterprise Developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/) - A Blog by Aleksandr Romanov.
+- [Mjyothula Hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/) - A Blog by Madhu J.
 - [Programmers Ought](https://www.programmersought.com/article/93321908468/)
 - [Beta Master](https://www.betamaster.us/blog/?s=hybris)
 - [Ground Level Hybris](https://groundlevelhybris.wordpress.com/category/hybris/)
-- [Hybris Guy](https://hybrisguy.wordpress.com/)
+- [Hybris Guy](https://hybrisguy.wordpress.com/) - A Blog by Asad Khan.
 - [SAP CX Expert](https://sapcxexpert.in/)
-- [Stefankruk Hybris](https://stefankruk.wordpress.com/tag/e-commerce/)
-- [Piotr Wittchen hybris](https://wittchen.io/posts/building-sap-hybris-commerce-suite-via-gradle/)
-- [Jrebel Manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html)
+- [Stefankruk E-commerce](https://stefankruk.wordpress.com/tag/e-commerce/) - A Blog by Stefan Kruk. 
+- [Piotr Wittchen hybris](https://wittchen.io/posts/building-sap-hybris-commerce-suite-via-gradle/) - A Blog by Piotr Wittchen.
 - [Hybris Explained](https://hybrisexplained.wordpress.com/) - Last activity in 2013.
 
 
@@ -215,8 +216,8 @@ _These are official repositories supported by SAP._
 
 _These are interesting GitHub Repositories about SAP Commerce/Hybris._  
 
-- [flexiblesearchbuilder](https://github.com/avrilfanomar/flexiblesearchbuilder)
-- [y-scripts](https://github.com/sergaks/y-scripts)
+- [Flexible search builder](https://github.com/avrilfanomar/flexiblesearchbuilder)
+- [Y-scripts](https://github.com/sergaks/y-scripts)
 
 _Search by Tags on GitHub._
 
@@ -227,7 +228,7 @@ _Search by Tags on GitHub._
 
 ### Twitter
 
-- [hashtaghybris](https://twitter.com/hashtaghybris) - A Slack Community for the Hybris, unfortunately not active.
+- [Hashtaghybris](https://twitter.com/hashtaghybris) - A Slack Community for the Hybris, unfortunately not active today.
 
 ### Paid Courses
 
@@ -272,9 +273,9 @@ _Some Articles & Videos that prepared in Turkish._
 
 - [Erkin Erol Blog](https://www.erkinerol.com/hybris-solr-ince-ayarlari/)
 - [Haratres Teknoloji Hybris 101](https://www.youtube.com/@haratresteknoloji/playlists)
-- [yazilimcity Blog](http://www.yazilimcity.net/adding-menu-to-sap-commerce-backoffice/)
+- [Yazili Ccity Blog](http://www.yazilimcity.net/adding-menu-to-sap-commerce-backoffice/)
 - [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/)
-- [Mdpgroup Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/)
+- [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/)
 
 ## Contributing
 
