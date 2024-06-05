@@ -99,7 +99,6 @@ _Sites to read._
 - [Hybris With Akash](https://hybriswithakash.wordpress.com/) - The author is unknown.
 - [Hybris Instructive](https://hybrisinstructive.blogspot.com/) - A Blog by Harish.
 - [Sap Spaces](https://sapspaces.com/tag/sap-hybris-as-a-service/) - A Blog by Sara Sampaio.
-- [Expert Soft](https://blog.expert-soft.com/category/for-programmer/) - The author is unknown.
 - [Hybris Info](https://hybrisinfo.wordpress.com/) - A Blog by nbhybris.
 - [Enterprise Developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/) - A Blog by Aleksandr Romanov.
 - [Mjyothula Hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/) - A Blog by Madhu J.
