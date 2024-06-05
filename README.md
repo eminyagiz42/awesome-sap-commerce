@@ -34,7 +34,6 @@
 
 - [Help SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US) - Provides Official SAP Commerce Documentation .
 - [Community SAP Commerce Cloud](https://pages.community.sap.com/topics/commerce-cloud) - Featured Content about SAP Commerce.
-- [Answers SAP Commerce](https://community.sap.com/t5/c-khhcw49343/SAP+Commerce/pd-p/67837800100800007216) - Asking CX related questions to the Community. 
 - [SAP Commerce Terminology](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/12be4ac419604b01aabb1adeb2c4c8a2/8bc7d09486691014ac87950f99acad26.html?locale=en-US) - Familiarize yourself with the terminology used in SAP Commerce Cloud documentation.
 - [Learning SAP Commerce Cloud](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud) - SAP Learning Technical Essentials of Sap Commerce.
 - [Learning Journeys](https://help.sap.com/learning-journeys/overview?search=sap%20commerce) - SAP Learning Journey for the developer role. 
@@ -270,7 +269,7 @@ _Spartacus is a lean Angular-based JavaScript storefront for SAP Commerce Cloud 
 _Some Articles & Videos that prepared in Turkish._
 
 - [Erkin Erol](https://www.erkinerol.com/hybris-solr-ince-ayarlari/) - A personal blog by Ecommerce Expert.
-- [Haratres Teknoloji](https://www.youtube.com/@haratresteknoloji/playlists) - Hybris 101 Youtube Videos.
+- [Haratres Teknoloji](https://www.youtube.com/@haratresteknoloji/playlists) - Hybris 101 YouTube Videos.
 - [Yazilim City](https://www.yazilimcity.net/category/java-technologies/java-sap-hybris/) - A Blog by developer.
 - [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/) - A Blog by developer.
 - [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/) - A Blog by developer.
