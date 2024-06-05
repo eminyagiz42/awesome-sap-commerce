@@ -32,19 +32,17 @@
 
 ### Official Sites
 
-- [Help SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US)
-- [Community SAP Commerce Cloud](https://pages.community.sap.com/topics/commerce-cloud)
-- [Learning Commerce Cloud](https://learning.sap.com/products/customer-experience/commerce-cloud)
-- [Answers SAP Commerce](https://answers.sap.com/tags/67837800100800007216)
-- [SAP Commerce Terminology](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/12be4ac419604b01aabb1adeb2c4c8a2/8bc7d09486691014ac87950f99acad26.html?locale=en-US)
-- [SAP Learning: Technical Essentials of Sap Commerce](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud)
-- [Learning Journeys](https://help.sap.com/learning-journeys/overview?search=sap%20commerce)
+- [Help SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US) - Provides Official SAP Commerce Documentation .
+- [Community SAP Commerce Cloud](https://pages.community.sap.com/topics/commerce-cloud) - Featured Content about SAP Commerce.
+- [Answers SAP Commerce](https://community.sap.com/t5/c-khhcw49343/SAP+Commerce/pd-p/67837800100800007216) - Asking CX related questions to the Community. 
+- [SAP Commerce Terminology](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/12be4ac419604b01aabb1adeb2c4c8a2/8bc7d09486691014ac87950f99acad26.html?locale=en-US) - Familiarize yourself with the terminology used in SAP Commerce Cloud documentation.
+- [Learning SAP Commerce Cloud](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud) - SAP Learning Technical Essentials of Sap Commerce.
+- [Learning Journeys](https://help.sap.com/learning-journeys/overview?search=sap%20commerce) - SAP Learning Journey for the developer role. 
 - [SAP Learning Hub](https://learninghub.sap.com/) - Subscription required.
 - [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - Several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
-- [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html)
-- [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud)
+- [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html) - Find SAP Commerce expert service.
+- [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud) - Follow webinar and events.
 - [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - Monthly news delivered directly to your inbox.
-- [Jrebel Manuals](https://manuals.jrebel.com/jrebel/advanced/hybris.html) - Helps to reduce build time.
 
 _This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, important to know which version your customer is using._
 
@@ -97,20 +95,20 @@ _Sites to read._
 - [Experts Hybris](https://www.expertshybris.com/) - A Blog by Shamsher Singh.
 - [Help Hybris](https://www.helphybris.com/) - A Blog by Ankitkumar Patel.
 - [Hybris Diary](https://hybrisdiary.wordpress.com/tag/hybris-blogs/) - A Blog by Vinay Sharma.
-- [Hybris World](https://hybrisworld.wordpress.com/)
+- [Hybris World](https://hybrisworld.wordpress.com/) - The author is unknown.
 - [Indain Hybris](https://indainhybris.blogspot.com/) - A Blog by Saikrishna.
-- [Hybris With Akash](https://hybriswithakash.wordpress.com/)
+- [Hybris With Akash](https://hybriswithakash.wordpress.com/) - The author is unknown.
 - [Hybris Instructive](https://hybrisinstructive.blogspot.com/) - A Blog by Harish.
 - [Sap Spaces](https://sapspaces.com/tag/sap-hybris-as-a-service/) - A Blog by Sara Sampaio.
-- [Expert Soft](https://blog.expert-soft.com/category/for-programmer/)
+- [Expert Soft](https://blog.expert-soft.com/category/for-programmer/) - The author is unknown.
 - [Hybris Info](https://hybrisinfo.wordpress.com/) - A Blog by nbhybris.
 - [Enterprise Developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/) - A Blog by Aleksandr Romanov.
 - [Mjyothula Hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/) - A Blog by Madhu J.
-- [Programmers Ought](https://www.programmersought.com/article/93321908468/)
-- [Beta Master](https://www.betamaster.us/blog/?s=hybris)
-- [Ground Level Hybris](https://groundlevelhybris.wordpress.com/category/hybris/)
+- [Programmers Ought](https://www.programmersought.com/article/93321908468/) - The author is unknown.
+- [Beta Master](https://www.betamaster.us/blog/?s=hybris) - The author is unknown.
+- [Ground Level Hybris](https://groundlevelhybris.wordpress.com/category/hybris/) - The author is unknown.
 - [Hybris Guy](https://hybrisguy.wordpress.com/) - A Blog by Asad Khan.
-- [SAP CX Expert](https://sapcxexpert.in/)
+- [SAP CX Expert](https://sapcxexpert.in/) - The author is unknown.
 - [Stefankruk E-commerce](https://stefankruk.wordpress.com/tag/e-commerce/) - A Blog by Stefan Kruk. 
 - [Piotr Wittchen hybris](https://wittchen.io/posts/building-sap-hybris-commerce-suite-via-gradle/) - A Blog by Piotr Wittchen.
 - [Hybris Explained](https://hybrisexplained.wordpress.com/) - Last activity in 2013.
@@ -210,9 +208,9 @@ _Tools that makes SAP Commerce Developer life easier._
 
 _These are official repositories supported by SAP._
 
-- [SAPMachine Java](https://github.com/SAP/SapMachine)
-- [SAP commerce-gradle-plugin](https://github.com/SAP/commerce-gradle-plugin)   
-- [SAP Spartacus](https://github.com/SAP/spartacus)   
+- [SAP Machine Java](https://github.com/SAP/SapMachine) - A dedicated Java version for SAP Commerce.
+- [SAP Commerce Gradle Plugin](https://github.com/SAP/commerce-gradle-plugin) - Gradle Plugin support SAP Commerce folder structure.
+- [SAP Spartacus](https://github.com/SAP/spartacus) - Rebranded as SAP Composable Storefront. 
 
 _These are interesting GitHub Repositories about SAP Commerce/Hybris._  
 
@@ -243,20 +241,20 @@ _These courses are useful, but It does not cover the latest version._
 
 _Apache Ant is the default code build and source management tool._
 
-- [Apache Ant](https://ant.apache.org/)
+- [Apache Ant](https://ant.apache.org/) - Official Ant web site.
 
 ### Groovy
 
 _Apache Groovy is a functional programming language, that can be possible to run scripts._
 
-- [Groovy Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm)
+- [Tutorials Point](https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm) - Groovy tutorials to understand basic syntax.
 
 ### Solr
 
 _Apache Solr is the default search engine._
 
-- [Apache Solr](https://solr.apache.org/)
-- [Yonik Solr](https://yonik.com/solr/query-syntax/)
+- [Apache Solr](https://solr.apache.org/) - Official Solr web site.
+- [Yonik Solr](https://yonik.com/solr/query-syntax/) - Solr syntax explained by Yonik Seeley.
 
 ### Spartacus
 
@@ -271,11 +269,11 @@ _Spartacus is a lean Angular-based JavaScript storefront for SAP Commerce Cloud 
 
 _Some Articles & Videos that prepared in Turkish._
 
-- [Erkin Erol Blog](https://www.erkinerol.com/hybris-solr-ince-ayarlari/)
-- [Haratres Teknoloji Hybris 101](https://www.youtube.com/@haratresteknoloji/playlists)
-- [Yazilim City Blog](https://www.yazilimcity.net/category/java-technologies/java-sap-hybris/)
-- [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/)
-- [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/)
+- [Erkin Erol](https://www.erkinerol.com/hybris-solr-ince-ayarlari/) - A personal blog by Ecommerce Expert.
+- [Haratres Teknoloji](https://www.youtube.com/@haratresteknoloji/playlists) - Hybris 101 Youtube Videos.
+- [Yazilim City](https://www.yazilimcity.net/category/java-technologies/java-sap-hybris/) - A Blog by developer.
+- [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/) - A Blog by developer.
+- [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/) - A Blog by developer.
 
 ## Contributing
 
