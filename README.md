@@ -169,11 +169,11 @@ _Technical channels that are organized according to the latest released videos._
 - [Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4) - How the SAP Commerce Cloud team found their automation mojo in Karate.
 - [Mohit Trivedi](https://www.youtube.com/@mohyth1) - SAP Hybris tutorial for begginers.
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772) - Videos about hybris collection types, accelerators.
-- [Sagarmeena](https://www.youtube.com/@sagarmeena2596) - Videos about cronjob, indexes, hotfolder topics
-- [Cloudflight Poland (former Divante)](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3) - Webinar about Spartacus 4.0.
+- [Sagarmeena](https://www.youtube.com/@sagarmeena2596) - Videos about cronjob, indexes, hotfolder topics.
+- [Cloudflight Poland (former Divante)](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3) - Webinar about Spartacus.
 - [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147) - helpful videos for Hybris interviews.
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459) - Hybris Version 6.5 B2C accelerator installation for beginners.
-- [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - Online training sessions about hybris
+- [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - Online training sessions about hybris.
 - [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0) - Explains how to implement SAP Commerce solution on Azure.
 - [Portal Tech Reply](https://www.youtube.com/watch?v=9JmmPFJ0BGM) - Hybris B2B dedicated webinars.
 - [Royal Cyber Inc](https://www.youtube.com/watch?v=cIHHxlNoEAM) - Improving performance of SAP Commerce.
@@ -183,7 +183,7 @@ _Technical channels that are organized according to the latest released videos._
 - [EPAM Ukraine](https://www.youtube.com/watch?v=JxvRhGb4W04&list=PLFjpByuUbtfj95KEcuwXxijzMrFy4fN_b) - Recorded presentation about SAP Commerce.
 - [LearnChase](https://www.youtube.com/@LearnChase) - Explains Hybris overview with several units.
 - [Richard Romanowski](https://www.youtube.com/@richardromanowski1) - Provides videos about Hybris and Git integration.
-- [Shrinivas AEM Online Training](https://www.youtube.com/watch?v=VI1nqB5IMN0&list=PLMi-rAWkDjMGmgAgmh4uwuhBMbxA22H5B) - Hybris Training sessions with an instructor .
+- [Shrinivas AEM Online Training](https://www.youtube.com/watch?v=VI1nqB5IMN0&list=PLMi-rAWkDjMGmgAgmh4uwuhBMbxA22H5B) - Hybris Training sessions with an instructor.
 - [Run Hybris](https://www.youtube.com/@runhybris6360) - Provides master class on older hybris version.
 
 ### Books
