@@ -32,18 +32,18 @@
 
 ### Official Sites
 
-- [Help SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US) - Provides Official SAP Commerce Documentation .
-- [Community SAP Commerce Cloud](https://pages.community.sap.com/topics/commerce-cloud) - Featured Content about SAP Commerce.
+- [Help SAP Commerce](https://help.sap.com/docs/SAP_COMMERCE?locale=en-US) - Provides official SAP Commerce documentation .
+- [Community SAP Commerce Cloud](https://pages.community.sap.com/topics/commerce-cloud) - Featured content about SAP Commerce.
 - [SAP Commerce Terminology](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/12be4ac419604b01aabb1adeb2c4c8a2/8bc7d09486691014ac87950f99acad26.html?locale=en-US) - Familiarize yourself with the terminology used in SAP Commerce Cloud documentation.
-- [Learning SAP Commerce Cloud](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud) - SAP Learning Technical Essentials of Sap Commerce.
-- [Learning Journeys](https://help.sap.com/learning-journeys/overview?search=sap%20commerce) - SAP Learning Journey for the developer role. 
-- [SAP Learning Hub](https://learninghub.sap.com/) - Subscription required.
-- [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - Several Extensions and Add-ons for SAP Commerce. Some of them provide a free trial for a deep dive.
-- [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html) - Find SAP Commerce expert service.
+- [Learning SAP Commerce Cloud](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud) - Provides technical essentials of SAP Commerce.
+- [Learning Journeys](https://help.sap.com/learning-journeys/overview?search=sap%20commerce) - Provides Learning journey for SAP Commerce developer role. 
+- [SAP Learning Hub](https://learninghub.sap.com/) - Subscription required techinal videos, articles. 
+- [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - Several related extensions and add-ons for SAP Commerce. Some of them provides a free trial for a deep dive.
+- [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html) - Get support from the expert service team.
 - [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud) - Follow webinar and events.
-- [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - Monthly news delivered directly to your inbox.
+- [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - Newsletter that monthly news delivered directly to your inbox.
 
-_This website contains SAP Commerce ZIP files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, important to know which version your customer is using._
+_This website contains SAP Commerce zip files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, important to know which version your customer is using._
 
 - [Download SAP Commerce](https://launchpad.support.sap.com/#/softwarecenter/search/SAP%2520Commerce%2520Cloud%2520V2) - S-user is required to login.
 
@@ -54,7 +54,7 @@ _These two websites are going to migrate to [Learning SAP](https://learning.sap.
 
 ### Java Doc
 
-_Official SAP Commerce Java Documentation._
+_Official SAP Commerce Java documentation._
 
 - [SAP Commerce Java Doc](https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205/en-US/index.html)
 
@@ -64,7 +64,7 @@ _These APIs would be handy for integrating your application with SAP Commerce._
 
 ### Certification
 
-_These are official SAP Developer certificates, essential for staying up-to-date for developers, and It's valuable for employers aiming to achieve Silver or Gold SAP Partner status._
+_These are official SAP Developer certificates, essential for staying up-to-date for developers, and It's valuable for employers aiming to achieve silver or gold SAP Partner status._
 
 - SAP Certified Development Professional - SAP Commerce Cloud Developer
 - SAP Certified Product Support Specialist - SAP Commerce Cloud
@@ -154,37 +154,37 @@ _Useful posts/articles on LinkedIn._
 
 ### Videos
 
-_YouTube channels that are organized according to the latest released videos._
+_Technical channels that are organized according to the latest released videos._
 
-- [Chenna RRRS](https://www.youtube.com/@chennarrrs3886) - 2023.
-- [Nitin Kumar](https://www.youtube.com/@NitinKumarHybris) - 2023.
-- [Yours Tanmay](https://www.youtube.com/@YoursTanmay) - 2023.
-- [Dasdilko](https://www.youtube.com/@dasdilko) - 2023.
-- [Hybris Tube](https://www.youtube.com/@hybristube) - 2023. a member only content.
-- [Sushil Jain](https://www.youtube.com/@sushiljain1719) - 2023.
-- [Pines Tran](https://www.youtube.com/@pinestran) - 2023.
-- [SAP E-Commerce Planet](https://www.youtube.com/@sape-commerceplanet) - 2023.
-- [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430) - 2022.
-- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce) - 2022.
-- [SAP Commerce Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4) - 2022.
-- [Mohit Trivedi](https://www.youtube.com/@mohyth1) - 2021.
-- [Hybris Store](https://www.youtube.com/@hybrisstore9772) - 2021.
-- [Sagarmeena](https://www.youtube.com/@sagarmeena2596) - 2021.
-- [Divante Spartacus](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3) - 2021.
-- [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147) - 2021.
-- [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459) - 2020.
-- [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - 2020.
-- [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0) - 2020.
-- [Portal Tech Reply B2B Demo](https://www.youtube.com/watch?v=9JmmPFJ0BGM) - 2020.
-- [Hybris improve performance](https://www.youtube.com/watch?v=cIHHxlNoEAM) - 2020.
-- [Webinar: SAP Commerce And Spartacus](https://www.youtube.com/watch?v=HLpewBG7dxg) - 2020.
-- [Training Cube](https://www.youtube.com/watch?v=ETdgwtDTVqI&list=PLCr6lunQ8EQIEEzuFYIwcFit6A3R7H1aD&index=2) - 2020.
-- [Nvizion Solutions Best Practices](https://www.youtube.com/watch?v=MhuNK1Ddlqg) - 2019.
-- [EPAM Ukraine](https://www.youtube.com/watch?v=JxvRhGb4W04&list=PLFjpByuUbtfj95KEcuwXxijzMrFy4fN_b) - 2019.
-- [LearnChase](https://www.youtube.com/@LearnChase) - 2018.
-- [Richard Romanowski](https://www.youtube.com/@richardromanowski1) - 2017.
-- [Shrinivas AEM Online Training](https://www.youtube.com/watch?v=VI1nqB5IMN0&list=PLMi-rAWkDjMGmgAgmh4uwuhBMbxA22H5B) - 2017.
-- [Run Hybris](https://www.youtube.com/@runhybris6360) - 2017.
+- [Chenna RRRS](https://www.youtube.com/@chennarrrs3886) - Dedicated channel to SAP Commerce.
+- [Nitin Kumar](https://www.youtube.com/@NitinKumarHybris) - Explaining SAP Commerce fundamentals with tutorials.
+- [Yours Tanmay](https://www.youtube.com/@YoursTanmay) - Provides practical SAP Commerce, Spring guides and steps.
+- [Dasdilko](https://www.youtube.com/@dasdilko) - Voluntarily prepared videos to explain Hybris.
+- [Hybris Tube](https://www.youtube.com/@hybristube) - Provides end-to-end technical implementation from scratch for each concept.
+- [Sushil Jain](https://www.youtube.com/@sushiljain1719) - Covers some Hybris, Java technical topics.
+- [Pines Tran](https://www.youtube.com/@pinestran) - Sharing knowledge and experiences about Hybris tutorials for begginers.
+- [SAP E-Commerce Planet](https://www.youtube.com/@sape-commerceplanet) - Provides instalation tutorials.
+- [Hybris In Simple Way](https://www.youtube.com/@hybrisinsimpleway430) - Several Hybris videos about certification.
+- [Vimeo SAP Commerce](https://vimeo.com/search?q=sap%20commerce) - SAP Commerce webinars that is shared in Vimeo.
+- [Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4) - How the SAP Commerce Cloud team found their automation mojo in Karate.
+- [Mohit Trivedi](https://www.youtube.com/@mohyth1) - SAP Hybris tutorial for begginers.
+- [Hybris Store](https://www.youtube.com/@hybrisstore9772) - Videos about hybris collection types, accelerators.
+- [Sagarmeena](https://www.youtube.com/@sagarmeena2596) - Videos about cronjob, indexes, hotfolder topics
+- [Cloudflight Poland (former Divante)](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3) - Webinar about Spartacus 4.0.
+- [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147) - helpful videos for Hybris interviews.
+- [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459) - Hybris Version 6.5 B2C accelerator installation for beginners.
+- [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - Online training sessions about hybris
+- [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0) - Explains how to implement SAP Commerce solution on Azure.
+- [Portal Tech Reply](https://www.youtube.com/watch?v=9JmmPFJ0BGM) - Hybris B2B dedicated webinars.
+- [Royal Cyber Inc](https://www.youtube.com/watch?v=cIHHxlNoEAM) - Improving performance of SAP Commerce.
+- [NIMBL](https://www.youtube.com/watch?v=HLpewBG7dxg) - A webinar about SAP Commerce and Spartacus.
+- [Training Cube](https://www.youtube.com/watch?v=ETdgwtDTVqI&list=PLCr6lunQ8EQIEEzuFYIwcFit6A3R7H1aD&index=2) - Hybris online trainng for beginners.
+- [Nvizion Solutions Best Practices](https://www.youtube.com/watch?v=MhuNK1Ddlqg) - Best practices and lessons learned for a successful Implementations.
+- [EPAM Ukraine](https://www.youtube.com/watch?v=JxvRhGb4W04&list=PLFjpByuUbtfj95KEcuwXxijzMrFy4fN_b) - Recorded presentation about SAP Commerce.
+- [LearnChase](https://www.youtube.com/@LearnChase) - Explains Hybris overview with several units.
+- [Richard Romanowski](https://www.youtube.com/@richardromanowski1) - Provides videos about Hybris and Git integration.
+- [Shrinivas AEM Online Training](https://www.youtube.com/watch?v=VI1nqB5IMN0&list=PLMi-rAWkDjMGmgAgmh4uwuhBMbxA22H5B) - Hybris Training sessions with an instructor .
+- [Run Hybris](https://www.youtube.com/@runhybris6360) - Provides master class on older hybris version.
 
 ### Books
 
@@ -207,7 +207,7 @@ _Tools that makes SAP Commerce Developer life easier._
 _These are official repositories supported by SAP._
 
 - [SAP Machine Java](https://github.com/SAP/SapMachine) - A dedicated Java version for SAP Commerce.
-- [SAP Commerce Gradle Plugin](https://github.com/SAP/commerce-gradle-plugin) - Gradle Plugin support SAP Commerce folder structure.
+- [SAP Commerce Gradle Plugin](https://github.com/SAP/commerce-gradle-plugin) - Gradle plugin support SAP Commerce folder structure.
 - [SAP Spartacus](https://github.com/SAP/spartacus) - Rebranded as SAP Composable Storefront. 
 
 _These are interesting GitHub Repositories about SAP Commerce/Hybris._  
@@ -224,7 +224,7 @@ _Search by Tags on GitHub._
 
 ### Twitter
 
-- [Hashtaghybris](https://twitter.com/hashtaghybris) - A Slack Community for the Hybris, unfortunately not active today.
+- [Hashtaghybris](https://twitter.com/hashtaghybris) - A Slack community for the Hybris, unfortunately not active today.
 
 ### Paid Courses
 
@@ -269,9 +269,9 @@ _Some Articles & Videos that prepared in Turkish._
 
 - [Erkin Erol](https://www.erkinerol.com/hybris-solr-ince-ayarlari/) - A personal blog by Ecommerce Expert.
 - [Haratres Teknoloji](https://www.youtube.com/@haratresteknoloji/playlists) - Hybris 101 YouTube Videos.
-- [Yazilim City](https://www.yazilimcity.net/category/java-technologies/java-sap-hybris/) - A Blog by developer.
-- [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/) - A Blog by developer.
-- [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/) - A Blog by developer.
+- [Yazilim City](https://www.yazilimcity.net/category/java-technologies/java-sap-hybris/) - A Blog by a Hybris developer.
+- [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/) - A Blog by Hybris developer.
+- [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/) - A Blog by Hybris developer.
 
 ## Contributing
 
