@@ -98,7 +98,7 @@ _Sites to read._
 - [Indain Hybris](https://indainhybris.blogspot.com/) - A Blog by Saikrishna.
 - [Hybris With Akash](https://hybriswithakash.wordpress.com/) - The author is unknown.
 - [Hybris Instructive](https://hybrisinstructive.blogspot.com/) - A Blog by Harish.
-- [Sap Spaces](https://sapspaces.com/tag/sap-hybris-as-a-service/) - A Blog by Sara Sampaio.
+- [Sap Spaces](https://sapspaces.com/tag/sap-commerce/) - A Blog by Sara Sampaio.
 - [Hybris Info](https://hybrisinfo.wordpress.com/) - A Blog by nbhybris.
 - [Enterprise Developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/) - A Blog by Aleksandr Romanov.
 - [Mjyothula Hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/) - A Blog by Madhu J.
@@ -171,7 +171,7 @@ _Technical channels that are organized according to the latest released videos._
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772) - Videos about hybris collection types, accelerators.
 - [Sagarmeena](https://www.youtube.com/@sagarmeena2596) - Videos about cronjob, indexes, hotfolder topics.
 - [Cloudflight Poland (former Divante)](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3) - Webinar about Spartacus.
-- [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147) - helpful videos for Hybris interviews.
+- [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147) - Helpful videos for Hybris interviews.
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459) - Hybris Version 6.5 B2C accelerator installation for beginners.
 - [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - Online training sessions about hybris.
 - [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0) - Explains how to implement SAP Commerce solution on Azure.
@@ -269,7 +269,6 @@ _Some Articles & Videos that prepared in Turkish._
 
 - [Erkin Erol](https://www.erkinerol.com/hybris-solr-ince-ayarlari/) - A personal blog by Ecommerce Expert.
 - [Haratres Teknoloji](https://www.youtube.com/@haratresteknoloji/playlists) - Hybris 101 YouTube Videos.
-- [Yazilim City](https://www.yazilimcity.net/category/java-technologies/java-sap-hybris/) - A Blog by a Hybris developer.
 - [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/) - A Blog by Hybris developer.
 - [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/) - A Blog by Hybris developer.
 
