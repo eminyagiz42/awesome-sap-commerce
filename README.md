@@ -11,6 +11,7 @@
   - [Certification](#certification)
   - [SAP Blog Posts](#sap-blog-posts)
   - [Blogs](#blogs)
+  - [Highlights](#highlights)
   - [Stack Overflow](#stack-overflow)
   - [Medium Articles](#medium-articles)
   - [LinkedIn Blogs](#linkedin-blogs)
@@ -85,7 +86,6 @@ _Technical articles about SAP Commerce._
 - [Discover 14 Leading SAP Hybris Experts](https://echoglobal.tech/technologies/hybris/)
 - [openSAP courses Migration](https://learning.sap.com/opensap-course-migration)
 - [SAP Community CX Blogs By Members](https://community.sap.com/t5/crm-and-cx-blogs-by-members)
-- [Explore Technical Essentials of SAP Commerce](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud)
 
 ### Blogs
 
