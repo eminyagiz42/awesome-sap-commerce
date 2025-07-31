@@ -41,7 +41,6 @@
 - [SAP Learning Hub](https://learninghub.sap.com/) - Subscription required techinal videos, articles. 
 - [SAP Store](https://store.sap.com/dcp/en/search?query=:relevance:worksWith:SAP%20Commerce:worksWith:SAP%20Commerce%20Cloud:solutionTypes:Extensions%20and%20Add-ons&GStoken=r1ke) - Several related extensions and add-ons for SAP Commerce. Some of them provides a free trial for a deep dive.
 - [Support SAP Commerce](https://support.sap.com/en/product/support-by-product/67837800100800007216.html) - Get support from the expert service team.
-- [Events SAP](https://events.sap.com/sap-customer-experience/en/webcasts#commerce-cloud) - Follow webinar and events.
 - [SAP Commerce Newsletter](https://www.sap.com/cmp/nl/cx-commerce-cloud-news/index.html) - Newsletter that monthly news delivered directly to your inbox.
 
 _This website contains SAP Commerce zip files, with new [versions](https://help.sap.com/docs/SAP_COMMERCE/c5613bd3cc9942efb74d017b40eb0892/1c6c687ad0ed4964bb43d409818d23a2.html) released every year. Before downloading, important to know which version your customer is using._
@@ -87,7 +86,6 @@ _Recent News about SAP Commerce._
 
 - [Discover 14 Leading SAP Hybris Experts](https://echoglobal.tech/technologies/hybris/)
 - [openSAP courses Migration](https://learning.sap.com/opensap-course-migration)
-- [SAP Community CX Blogs By Members](https://community.sap.com/t5/crm-and-cx-blogs-by-members)
 
 ### Blogs
 
@@ -112,7 +110,6 @@ _Sites to read._
 - [Enterprise Developer](http://enterprise-developer.com/categories/work/sap-commerce-hybris/) - A Blog by Aleksandr Romanov.
 - [Mjyothula Hybris](https://mjyothula.wordpress.com/category/sap-hybris-development/) - A Blog by Madhu J.
 - [Programmers Ought](https://www.programmersought.com/article/93321908468/) - The author is unknown.
-- [Beta Master](https://www.betamaster.us/blog/?s=hybris) - The author is unknown.
 - [Ground Level Hybris](https://groundlevelhybris.wordpress.com/category/hybris/) - The author is unknown.
 - [Hybris Guy](https://hybrisguy.wordpress.com/) - A Blog by Asad Khan.
 - [SAP CX Expert](https://sapcxexpert.in/) - The author is unknown.
@@ -198,9 +195,7 @@ _Technical channels that are organized according to the latest released videos._
 - [Karate Labs](https://www.youtube.com/watch?v=rjcCq7SGVc4) - How the SAP Commerce Cloud team found their automation mojo in Karate.
 - [Mohit Trivedi](https://www.youtube.com/@mohyth1) - SAP Hybris tutorial for begginers.
 - [Hybris Store](https://www.youtube.com/@hybrisstore9772) - Videos about hybris collection types, accelerators.
-- [Sagarmeena](https://www.youtube.com/@sagarmeena2596) - Videos about cronjob, indexes, hotfolder topics.
 - [Cloudflight Poland (former Divante)](https://www.youtube.com/watch?v=hyuWmEcHVbI&list=PLoL78HfIzDGzlaUtVesMPeuGMKLcy3Rrx&index=3) - Webinar about Spartacus.
-- [Hybris e-digital](https://www.youtube.com/@hybrise-digital1147) - Helpful videos for Hybris interviews.
 - [Hybris Tutorials For Beginner](https://www.youtube.com/@hybristutorialsforbeginner459) - Hybris Version 6.5 B2C accelerator installation for beginners.
 - [SVTechHub](https://www.youtube.com/@SVTechHub/search?query=hybris) - Online training sessions about hybris.
 - [SAP Tech ed](https://www.youtube.com/watch?v=RdKPa2IyL_0) - Explains how to implement SAP Commerce solution on Azure.
