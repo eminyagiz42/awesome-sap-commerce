@@ -80,6 +80,13 @@ _Technical articles about SAP Commerce._
 - [SAP Commerce Tag](https://community.sap.com/t5/c-khhcw49343/SAP+Commerce/pd-p/67837800100800007216)
 - [SAP Commerce Cloud Tag](https://community.sap.com/t5/c-khhcw49343/SAP+Commerce+Cloud/pd-p/73555000100800001224)
 
+### Highlights
+
+- [Discover 14 Leading SAP Hybris Experts](https://echoglobal.tech/technologies/hybris/)
+- [openSAP courses Migration](https://learning.sap.com/opensap-course-migration)
+- [SAP Community CX Blogs By Members](https://community.sap.com/t5/crm-and-cx-blogs-by-members)
+- [Explore Technical Essentials of SAP Commerce](https://learning.sap.com/learning-journeys/explore-the-technical-essentials-of-sap-commerce-cloud)
+
 ### Blogs
 
 _Sites to read._
@@ -110,7 +117,11 @@ _Sites to read._
 - [Stefankruk E-commerce](https://stefankruk.wordpress.com/tag/e-commerce/) - A Blog by Stefan Kruk. 
 - [Piotr Wittchen hybris](https://wittchen.io/posts/building-sap-hybris-commerce-suite-via-gradle/) - A Blog by Piotr Wittchen.
 - [Hybris Explained](https://hybrisexplained.wordpress.com/) - Last activity in 2013.
-
+- [SAP Commerce Cloud Simplified](https://sapcommercecloudsimplified.blogspot.com/) - A Blog by Vijay Gandhari.
+- [Hybris Academy](https://www.hybrisacademy.com/) - A Blog by Piyush Singh.
+- [VRS Techhub](https://vrstechhub.blogspot.com/) - A Blog by Ramesh Vanka.
+- [D9r Dev](https://d9r.dev/posts/sap-commerce-backoffice-config/) - A Blog by Danny Kramer.
+- [Jagdeepsangwan](https://jagdeepsangwan.wordpress.com/) - A Blog by Jagdeep Sangwan.
 
 ### Stack Overflow
 
@@ -137,6 +148,11 @@ _Many Experienced people who are eager to share their knowledge wrote about SAP 
 - [Acacio Capela Articles](https://medium.com/@acacio.capela)
 - [Amine Annabi Articles](https://medium.com/@annabi.medamine)
 - [Mert Misirli Articles](https://medium.com/@misirlimert1996)
+- [Abhinav Pratap Articles](https://medium.com/@prataabhinav)
+- [Tugba Nur Articles](https://medium.com/@nurtugba2110)
+- [Gazal Gafoor Articles](https://medium.com/@gazal.k)
+- [Aswin Raghuraman Articles](https://medium.com/@aswinraghuraman)
+- [Vishal Patil Articles](https://medium.com/@vishalpatil_26336)
 
 ### LinkedIn Blogs
 
@@ -151,6 +167,17 @@ _Useful posts/articles on LinkedIn._
 - [Abhinav Pat Post](https://www.linkedin.com/posts/abhinavpat_sap-hybris-commerce-most-un-answerable-ugcPost-7122637257685004289-6Vcp/)
 - [Naveen Kumar R. Articles](https://www.linkedin.com/in/rajagopalnk/recent-activity/articles/)
 - [Avinash Jadhav Articles](https://www.linkedin.com/in/avinash-jadhav-090b2a5a/recent-activity/articles/)
+- [Vijay Gandhari Articles](https://www.linkedin.com/in/vijay2656/recent-activity/articles/)
+- [Shamsher Singh Articles](https://www.linkedin.com/in/shamsher-singh-27785b15/recent-activity/articles/)
+- [Shubham Pal Article](https://www.linkedin.com/pulse/bridging-gap-running-sap-hybris-v3-alongside-v2-shubham-pal-l9u4f)
+- [Prasanta Sahoo Articles](https://www.linkedin.com/in/prasanta-sahoo-a1839b107/recent-activity/articles/)
+- [Rajat Singh Articles](https://www.linkedin.com/in/mailtorajatsingh/recent-activity/newsletter/)
+- [Prathamesh Aras Articles](https://www.linkedin.com/in/prathamesh-aras-808525a/recent-activity/articles/)
+- [Sarbajeet Senapati Articles](https://www.linkedin.com/in/sarbajeet-senapati/recent-activity/articles/)
+- [Anand Pandey Articles](https://www.linkedin.com/in/anandsnpandey/recent-activity/articles/)
+- [Mohamed Jouamaa Articles](https://www.linkedin.com/in/mohamed-jouamaa-45961a66/recent-activity/articles/)
+- [Naved Ali Articles](https://www.linkedin.com/in/naved-ali-74a34a6b/recent-activity/articles/)
+- [Pratham Chaudhary Articles](https://www.linkedin.com/in/prathamddev/recent-activity/articles/)
 
 ### Videos
 
@@ -271,6 +298,8 @@ _Some Articles & Videos that prepared in Turkish._
 - [Haratres Teknoloji](https://www.youtube.com/@haratresteknoloji/playlists) - Hybris 101 YouTube Videos.
 - [Ugur Halil Blog](https://ugurhalil.com/hybris-nedir-ve-nasil-kurulur/) - A Blog by Hybris developer.
 - [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/) - A Blog by Hybris developer.
+- [Gorkem Acisu Medium](https://medium.com/@gorkem-acisu) - Articles by Senior Software Engineer.
+- [Zeynep Uygun Medium](https://zeynepuygun.medium.com/) - Articles by SAP CX Developer.
 
 ## Contributing
 
