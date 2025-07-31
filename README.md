@@ -83,6 +83,8 @@ _Technical articles about SAP Commerce._
 
 ### Highlights
 
+_Recent News about SAP Commerce._
+
 - [Discover 14 Leading SAP Hybris Experts](https://echoglobal.tech/technologies/hybris/)
 - [openSAP courses Migration](https://learning.sap.com/opensap-course-migration)
 - [SAP Community CX Blogs By Members](https://community.sap.com/t5/crm-and-cx-blogs-by-members)
