@@ -6,9 +6,9 @@ on:
   pull_request:
     types: [assigned, opened, synchronize, reopened]
 jobs:
-  build:
+  check-links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Check links
-        uses: restqa/404-links@3.1.4
+      - name: 'restqa-404-links'
+        uses: restqa/404-links@3.1.6
